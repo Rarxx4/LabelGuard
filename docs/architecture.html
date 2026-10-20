@@ -1,0 +1,76 @@
+<!doctype html>
+<html><head><meta charset="utf-8"><title>LabelGuard architecture</title>
+<style>
+  body{margin:0;background:#fff;font-family:"Segoe UI",Arial,sans-serif;color:#1d1d1f}
+  .wrap{width:1500px;padding:36px 40px;box-sizing:border-box}
+  h1{margin:0 0 4px;font-size:30px} .sub{color:#555;margin-bottom:26px;font-size:16px}
+  .row{display:flex;gap:18px;align-items:stretch}
+  .col{display:flex;flex-direction:column;gap:12px}
+  .box{border:2px solid #333;border-radius:10px;padding:12px 14px;background:#fafafa;font-size:14px;line-height:1.35}
+  .box b{font-size:15px}
+  .in{background:#eef3ff;border-color:#3d5afe}
+  .ai{background:#fff4e5;border-color:#ef6c00}
+  .code{background:#e8f5e9;border-color:#2e7d32}
+  .trust{background:#fdecea;border-color:#c62828}
+  .out{background:#f3e5f5;border-color:#6a1b9a}
+  .arrow{display:flex;align-items:center;font-size:34px;color:#555;padding:0 2px}
+  .tag{display:inline-block;font-size:11px;font-weight:700;padding:1px 6px;border-radius:4px;color:#fff;margin-right:4px}
+  .t-ai{background:#ef6c00}.t-code{background:#2e7d32}.t-trust{background:#c62828}
+  ul{margin:6px 0 0 18px;padding:0} li{margin:2px 0}
+  .legend{margin-top:22px;font-size:14px;color:#333}
+  .legend span{margin-right:18px}
+</style></head><body><div class="wrap">
+<h1>LabelGuard — Is this packaging artwork ready to launch?</h1>
+<div class="sub">AI reads and reasons, code measures and compares, the trust layer decides what can be believed — every finding carries evidence.</div>
+
+<div class="row">
+  <div class="col" style="width:210px">
+    <div class="box in"><b>1 · Inputs</b><ul>
+      <li>Artwork: PDF / PNG / JPG</li>
+      <li>Rules: regulation (FSSAI, FDA…) + company rulebook (PDF / DOCX / TXT)</li>
+      <li>Approved product info (XLSX / DOCX / PDF)</li></ul></div>
+  </div>
+  <div class="arrow">➜</div>
+  <div class="col" style="width:230px">
+    <div class="box code"><span class="tag t-code">CODE</span><b>2 · Ingest</b><ul>
+      <li>PyMuPDF: render pages, text layer with exact positions &amp; font sizes</li>
+      <li>RapidOCR for images / outlined text</li>
+      <li>DOCX / XLSX / PDF → text</li></ul></div>
+  </div>
+  <div class="arrow">➜</div>
+  <div class="col" style="width:290px">
+    <div class="box ai"><span class="tag t-ai">AI</span><b>3a · Rulebook → checklist</b><br>atomic, testable rules with verbatim source quotes &amp; severity</div>
+    <div class="box ai"><span class="tag t-ai">AI</span><b>3b · Spec → approved facts</b><br>net qty, ingredients, allergens, nutrition, claims…</div>
+    <div class="box ai"><span class="tag t-ai">AI · vision</span><b>3c · Read the artwork</b><br>elements, roles, symbols, printed facts — linked to detected line IDs</div>
+    <div style="font-size:12px;color:#666">3a–3c run in parallel · structured outputs (schema-validated JSON)</div>
+  </div>
+  <div class="arrow">➜</div>
+  <div class="col" style="width:250px">
+    <div class="box code"><span class="tag t-code">CODE</span><b>4 · Deterministic checks</b><ul>
+      <li>quantities with unit conversion</li><li>ingredient list, order, QUID %</li>
+      <li>nutrition values, licence digits</li><li>approved claims</li><li>text height in mm (PDF)</li></ul></div>
+    <div class="box ai"><span class="tag t-ai">AI · vision</span><b>5 · Rule-by-rule assessment</b><br>PASS / FAIL / NEEDS_REVIEW / N/A, confidence, verbatim evidence, fix</div>
+  </div>
+  <div class="arrow">➜</div>
+  <div class="col" style="width:300px">
+    <div class="box trust"><span class="tag t-trust">TRUST LAYER</span><b>6 · Verify the AI</b><ul>
+      <li><b>Evidence grounding</b>: quoted text must exist in text layer / OCR (numbers must match exactly)</li>
+      <li><b>Absence re-check</b>: "X is missing" → search again</li>
+      <li><b>Code agreement</b>: AI vs arithmetic</li>
+      <li><b>Confidence gate</b> &amp; raster size limits</li>
+      <li>Rule / spec quotes checked in source docs</li></ul>
+      <div style="margin-top:6px">Unverifiable → <b>NEEDS_REVIEW</b>, with the reason</div></div>
+  </div>
+</div>
+
+<div class="row" style="margin-top:18px;justify-content:flex-end">
+  <div class="box out" style="width:1110px"><b>7 · Reviewer workspace (Streamlit)</b> —
+    launch-readiness verdict · findings with evidence highlighted on the artwork · rule source quotes ·
+    trust-layer notes · confirm / dismiss as false alarm · ask follow-up questions (AI chat grounded in the run) ·
+    HTML report &amp; JSON export</div>
+</div>
+
+<div class="legend"><span><span class="tag t-ai">AI</span>Gemini 3.8 Flash (free tier) or Claude Opus 5.5 — vision + reasoning, switchable</span>
+<span><span class="tag t-code">CODE</span>deterministic Python</span>
+<span><span class="tag t-trust">TRUST LAYER</span>verification of AI output</span></div>
+</div></body></html>

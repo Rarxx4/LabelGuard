@@ -1,0 +1,3353 @@
+{
+ "run_id": "20261020-121847-6218",
+ "created_at": "2026-10-20T12:18:52",
+ "market": "India (FSSAI)",
+ "model": "gemini-3.8-flash",
+ "artwork_name": "artwork_v1_masala_peanuts.pdf",
+ "rulebook_names": [
+  "rulebook_snacks_india.pdf"
+ ],
+ "spec_name": "approved_product_spec.xlsx",
+ "pages": [
+  {
+   "index": 0,
+   "png_path": "page_0.png",
+   "width_px": 2400,
+   "height_px": 1237,
+   "width_mm": 329.99999067518445,
+   "height_mm": 170.00000237358938
+  }
+ ],
+ "lines": [
+  {
+   "line_id": "L1",
+   "page": 0,
+   "text": "FRONT PANEL (PDP)",
+   "bbox": [
+    0.030303030982697203,
+    0.020105385406119756,
+    0.09445085959375929,
+    0.03721303510754904
+   ],
+   "source": "pdf",
+   "font_size_mm": 2.12,
+   "cap_height_mm": 1.52,
+   "confidence": 1.0
+  },
+  {
+   "line_id": "L2",
+   "page": 0,
+   "text": "BACK PANEL",
+   "bbox": [
+    0.48484849572315525,
+    0.020105385406119756,
+    0.5251293949844498,
+    0.03721303510754904
+   ],
+   "source": "pdf",
+   "font_size_mm": 2.12,
+   "cap_height_mm": 1.52,
+   "confidence": 1.0
+  },
+  {
+   "line_id": "L3",
+   "page": 0,
+   "text": "INGREDIENTS:",
+   "bbox": [
+    0.5030303139049734,
+    0.08963529580070731,
+    0.5643238168005176,
+    0.11249530099114889
+   ],
+   "source": "pdf",
+   "font_size_mm": 2.82,
+   "cap_height_mm": 2.03,
+   "confidence": 1.0
+  },
+  {
+   "line_id": "L4",
+   "page": 0,
+   "text": "CRUNCHWELL",
+   "bbox": [
+    0.05454545454545454,
+    0.11260295230746666,
+    0.28433212287377085,
+    0.19832795396035252
+   ],
+   "source": "pdf",
+   "font_size_mm": 10.58,
+   "cap_height_mm": 7.62,
+   "confidence": 1.0
+  },
+  {
+   "line_id": "L5",
+   "page": 0,
+   "text": "Peanuts (70%), Gram Flour (Besan), Edible Vegetable Oil (Palmolein), Spices & Condiments (Red Chilli, Turmeric, Coriander, Cumin),",
+   "bbox": [
+    0.5030303139049734,
+    0.1176470802436189,
+    0.947987799924769,
+    0.1376060095130231
+   ],
+   "source": "pdf",
+   "font_size_mm": 2.47,
+   "cap_height_mm": 1.78,
+   "confidence": 1.0
+  },
+  {
+   "line_id": "L6",
+   "page": 0,
+   "text": "Iodised Salt, Curry Leaves (1%), Black Salt, Acidity Regulator (INS 330).",
+   "bbox": [
+    0.5030303139049734,
+    0.13910286864991017,
+    0.7429933900490894,
+    0.15906179791931435
+   ],
+   "source": "pdf",
+   "font_size_mm": 2.47,
+   "cap_height_mm": 1.78,
+   "confidence": 1.0
+  },
+  {
+   "line_id": "L7",
+   "page": 0,
+   "text": "May contain traces of gluten.",
+   "bbox": [
+    0.5030303139049734,
+    0.17367294480425144,
+    0.6061558246746489,
+    0.1936754443983128
+   ],
+   "source": "pdf",
+   "font_size_mm": 2.47,
+   "cap_height_mm": 1.78,
+   "confidence": 1.0
+  },
+  {
+   "line_id": "L8",
+   "page": 0,
+   "text": "STORAGE:",
+   "bbox": [
+    0.7636363636363637,
+    0.21185992786578112,
+    0.8031324923080737,
+    0.23186242745984248
+   ],
+   "source": "pdf",
+   "font_size_mm": 2.47,
+   "cap_height_mm": 1.78,
+   "confidence": 1.0
+  },
+  {
+   "line_id": "L9",
+   "page": 0,
+   "text": "NUTRITIONAL INFORMATION (Approx.)",
+   "bbox": [
+    0.509090909090909,
+    0.2189187637629663,
+    0.6500137836447349,
+    0.23892126335702765
+   ],
+   "source": "pdf",
+   "font_size_mm": 2.47,
+   "cap_height_mm": 1.78,
+   "confidence": 1.0
+  },
+  {
+   "line_id": "L10",
+   "page": 0,
+   "text": "Masala Crunch",
+   "bbox": [
+    0.05454545454545454,
+    0.2229676691725514,
+    0.22183268971596556,
+    0.2858326656349957
+   ],
+   "source": "pdf",
+   "font_size_mm": 7.76,
+   "cap_height_mm": 5.59,
+   "confidence": 1.0
+  },
+  {
+   "line_id": "L11",
+   "page": 0,
+   "text": "Store in a cool, dry place. Once opened, transfer",
+   "bbox": [
+    0.7636363636363637,
+    0.23637026201217384,
+    0.9246071498130481,
+    0.25632919128157805
+   ],
+   "source": "pdf",
+   "font_size_mm": 2.47,
+   "cap_height_mm": 1.78,
+   "confidence": 1.0
+  },
+  {
+   "line_id": "L12",
+   "page": 0,
+   "text": "Per 100 g",
+   "bbox": [
+    0.6848485283471665,
+    0.2459775819280426,
+    0.7181262594907326,
+    0.26598008152210395
+   ],
+   "source": "pdf",
+   "font_size_mm": 2.47,
+   "cap_height_mm": 1.78,
+   "confidence": 1.0
+  },
+  {
+   "line_id": "L13",
+   "page": 0,
+   "text": "contents to an airtight container.",
+   "bbox": [
+    0.7636363636363637,
+    0.25782611374742537,
+    0.870122114936349,
+    0.27778504301682955
+   ],
+   "source": "pdf",
+   "font_size_mm": 2.47,
+   "cap_height_mm": 1.78,
+   "confidence": 1.0
+  },
+  {
+   "line_id": "L14",
+   "page": 0,
+   "text": "Energy (kcal)",
+   "bbox": [
+    0.509090909090909,
+    0.2729637776079436,
+    0.5531667964558579,
+    0.2929226910451077
+   ],
+   "source": "pdf",
+   "font_size_mm": 2.47,
+   "cap_height_mm": 1.78,
+   "confidence": 1.0
+  },
+  {
+   "line_id": "L15",
+   "page": 0,
+   "text": "560",
+   "bbox": [
+    0.6848485283471665,
+    0.2729637776079436,
+    0.6973305402829872,
+    0.2929226910451077
+   ],
+   "source": "pdf",
+   "font_size_mm": 2.47,
+   "cap_height_mm": 1.78,
+   "confidence": 1.0
+  },
+  {
+   "line_id": "L16",
+   "page": 0,
+   "text": "Peanuts",
+   "bbox": [
+    0.05454545454545454,
+    0.2759088275757598,
+    0.14603249612508307,
+    0.3387738398704441
+   ],
+   "source": "pdf",
+   "font_size_mm": 7.76,
+   "cap_height_mm": 5.59,
+   "confidence": 1.0
+  },
+  {
+   "line_id": "L17",
+   "page": 0,
+   "text": "Protein (g)",
+   "bbox": [
+    0.509090909090909,
+    0.3000225957730199,
+    0.5440223187385469,
+    0.319981509210184
+   ],
+   "source": "pdf",
+   "font_size_mm": 2.47,
+   "cap_height_mm": 1.78,
+   "confidence": 1.0
+  },
+  {
+   "line_id": "L18",
+   "page": 0,
+   "text": "18.5",
+   "bbox": [
+    0.6848485283471665,
+    0.3000225957730199,
+    0.6994108429816128,
+    0.319981509210184
+   ],
+   "source": "pdf",
+   "font_size_mm": 2.47,
+   "cap_height_mm": 1.78,
+   "confidence": 1.0
+  },
+  {
+   "line_id": "L19",
+   "page": 0,
+   "text": "Best Before 6 months from manufacture.",
+   "bbox": [
+    0.7636363636363637,
+    0.31578197586862633,
+    0.9087500534218184,
+    0.33578449129492777
+   ],
+   "source": "pdf",
+   "font_size_mm": 2.47,
+   "cap_height_mm": 1.78,
+   "confidence": 1.0
+  },
+  {
+   "line_id": "L20",
+   "page": 0,
+   "text": "Carbohydrate (g)",
+   "bbox": [
+    0.509090909090909,
+    0.32708147726705644,
+    0.5656486778956338,
+    0.34704039070422055
+   ],
+   "source": "pdf",
+   "font_size_mm": 2.47,
+   "cap_height_mm": 1.78,
+   "confidence": 1.0
+  },
+  {
+   "line_id": "L21",
+   "page": 0,
+   "text": "30.2",
+   "bbox": [
+    0.6848485283471665,
+    0.32708147726705644,
+    0.6994108429816128,
+    0.34704039070422055
+   ],
+   "source": "pdf",
+   "font_size_mm": 2.47,
+   "cap_height_mm": 1.78,
+   "confidence": 1.0
+  },
+  {
+   "line_id": "L22",
+   "page": 0,
+   "text": "Roasted & Spiced Peanut Snack",
+   "bbox": [
+    0.05454545454545454,
+    0.3466638367065293,
+    0.22514875733510112,
+    0.3780278525833529
+   ],
+   "source": "pdf",
+   "font_size_mm": 3.88,
+   "cap_height_mm": 2.79,
+   "confidence": 1.0
+  },
+  {
+   "line_id": "L23",
+   "page": 0,
+   "text": "Total Sugars (g)",
+   "bbox": [
+    0.5212121320867916,
+    0.35414029543213277,
+    0.5748590234915717,
+    0.3740992088692969
+   ],
+   "source": "pdf",
+   "font_size_mm": 2.47,
+   "cap_height_mm": 1.78,
+   "confidence": 1.0
+  },
+  {
+   "line_id": "L24",
+   "page": 0,
+   "text": "2.1",
+   "bbox": [
+    0.6848485283471665,
+    0.35414029543213277,
+    0.6952501723363392,
+    0.3740992088692969
+   ],
+   "source": "pdf",
+   "font_size_mm": 2.47,
+   "cap_height_mm": 1.78,
+   "confidence": 1.0
+  },
+  {
+   "line_id": "L25",
+   "page": 0,
+   "text": "Batch No.: / Mfg. Date: See crimp",
+   "bbox": [
+    0.7636363636363637,
+    0.3628408712950342,
+    0.8750981901177303,
+    0.3827997847321983
+   ],
+   "source": "pdf",
+   "font_size_mm": 2.47,
+   "cap_height_mm": 1.78,
+   "confidence": 1.0
+  },
+  {
+   "line_id": "L26",
+   "page": 0,
+   "text": "Added Sugars (g)",
+   "bbox": [
+    0.5212121320867916,
+    0.3811991135972091,
+    0.5798578049847531,
+    0.4011580270343732
+   ],
+   "source": "pdf",
+   "font_size_mm": 2.47,
+   "cap_height_mm": 1.78,
+   "confidence": 1.0
+  },
+  {
+   "line_id": "L27",
+   "page": 0,
+   "text": "0",
+   "bbox": [
+    0.6848485283471665,
+    0.3811991135972091,
+    0.6890091989924401,
+    0.4011580270343732
+   ],
+   "source": "pdf",
+   "font_size_mm": 2.47,
+   "cap_height_mm": 1.78,
+   "confidence": 1.0
+  },
+  {
+   "line_id": "L28",
+   "page": 0,
+   "text": "Total Fat (g)",
+   "bbox": [
+    0.509090909090909,
+    0.40825793176228536,
+    0.5498443019065146,
+    0.42821684519944947
+   ],
+   "source": "pdf",
+   "font_size_mm": 2.47,
+   "cap_height_mm": 1.78,
+   "confidence": 1.0
+  },
+  {
+   "line_id": "L29",
+   "page": 0,
+   "text": "40.5",
+   "bbox": [
+    0.6848485283471665,
+    0.40825793176228536,
+    0.6994108429816128,
+    0.42821684519944947
+   ],
+   "source": "pdf",
+   "font_size_mm": 2.47,
+   "cap_height_mm": 1.78,
+   "confidence": 1.0
+  },
+  {
+   "line_id": "L30",
+   "page": 0,
+   "text": "MRP Rs. 60.00 (Incl. of all taxes)",
+   "bbox": [
+    0.7636363636363637,
+    0.42754672980648445,
+    0.9101487752783073,
+    0.4532642405933062
+   ],
+   "source": "pdf",
+   "font_size_mm": 3.17,
+   "cap_height_mm": 2.29,
+   "confidence": 1.0
+  },
+  {
+   "line_id": "L31",
+   "page": 0,
+   "text": "Saturated Fat (g)",
+   "bbox": [
+    0.5212121320867916,
+    0.4353167499273617,
+    0.5777774370381051,
+    0.4552756633645258
+   ],
+   "source": "pdf",
+   "font_size_mm": 2.47,
+   "cap_height_mm": 1.78,
+   "confidence": 1.0
+  },
+  {
+   "line_id": "L32",
+   "page": 0,
+   "text": "7.8",
+   "bbox": [
+    0.6848485283471665,
+    0.4353167499273617,
+    0.6952501723363392,
+    0.4552756633645258
+   ],
+   "source": "pdf",
+   "font_size_mm": 2.47,
+   "cap_height_mm": 1.78,
+   "confidence": 1.0
+  },
+  {
+   "line_id": "L33",
+   "page": 0,
+   "text": "HIGH PROTEIN",
+   "bbox": [
+    0.09443395219995127,
+    0.444117638863311,
+    0.20253575020708092,
+    0.48412263805143374
+   ],
+   "source": "pdf",
+   "font_size_mm": 4.94,
+   "cap_height_mm": 3.56,
+   "confidence": 1.0
+  },
+  {
+   "line_id": "L34",
+   "page": 0,
+   "text": "Trans Fat (g)",
+   "bbox": [
+    0.5212121320867916,
+    0.462375568092438,
+    0.564457379502399,
+    0.4823344815296021
+   ],
+   "source": "pdf",
+   "font_size_mm": 2.47,
+   "cap_height_mm": 1.78,
+   "confidence": 1.0
+  },
+  {
+   "line_id": "L35",
+   "page": 0,
+   "text": "0.1",
+   "bbox": [
+    0.6848485283471665,
+    0.462375568092438,
+    0.6952501723363392,
+    0.4823344815296021
+   ],
+   "source": "pdf",
+   "font_size_mm": 2.47,
+   "cap_height_mm": 1.78,
+   "confidence": 1.0
+  },
+  {
+   "line_id": "L36",
+   "page": 0,
+   "text": "Sodium (mg)",
+   "bbox": [
+    0.509090909090909,
+    0.4894343862575143,
+    0.5519170358345401,
+    0.5093932996946784
+   ],
+   "source": "pdf",
+   "font_size_mm": 2.47,
+   "cap_height_mm": 1.78,
+   "confidence": 1.0
+  },
+  {
+   "line_id": "L37",
+   "page": 0,
+   "text": "610",
+   "bbox": [
+    0.6848485283471665,
+    0.4894343862575143,
+    0.6973305402829872,
+    0.5093932996946784
+   ],
+   "source": "pdf",
+   "font_size_mm": 2.47,
+   "cap_height_mm": 1.78,
+   "confidence": 1.0
+  },
+  {
+   "line_id": "L38",
+   "page": 0,
+   "text": "Boosts Immunity!",
+   "bbox": [
+    0.05454545454545454,
+    0.5280102724639855,
+    0.17190818167789856,
+    0.565157773971848
+   ],
+   "source": "pdf",
+   "font_size_mm": 4.59,
+   "cap_height_mm": 3.3,
+   "confidence": 1.0
+  },
+  {
+   "line_id": "L39",
+   "page": 0,
+   "text": "Manufactured & Marketed by:",
+   "bbox": [
+    0.5030303139049734,
+    0.5389188125262657,
+    0.6078096662987765,
+    0.5589212646236068
+   ],
+   "source": "pdf",
+   "font_size_mm": 2.47,
+   "cap_height_mm": 1.78,
+   "confidence": 1.0
+  },
+  {
+   "line_id": "L40",
+   "page": 0,
+   "text": "fssai",
+   "bbox": [
+    0.8151515695248671,
+    0.5490025562101518,
+    0.8395146591100757,
+    0.5775775963417139
+   ],
+   "source": "pdf",
+   "font_size_mm": 3.53,
+   "cap_height_mm": 2.54,
+   "confidence": 1.0
+  },
+  {
+   "line_id": "L41",
+   "page": 0,
+   "text": "Crunchwell Foods Pvt. Ltd., Plot 42, MIDC Industrial Area, Chakan, Pune,",
+   "bbox": [
+    0.5030303139049734,
+    0.5634290833436981,
+    0.7471688719954509,
+    0.5833879651163821
+   ],
+   "source": "pdf",
+   "font_size_mm": 2.47,
+   "cap_height_mm": 1.78,
+   "confidence": 1.0
+  },
+  {
+   "line_id": "L42",
+   "page": 0,
+   "text": "Maharashtra - 410501, India",
+   "bbox": [
+    0.5030303139049734,
+    0.5848849350789497,
+    0.5970340858931492,
+    0.6048438168516337
+   ],
+   "source": "pdf",
+   "font_size_mm": 2.47,
+   "cap_height_mm": 1.78,
+   "confidence": 1.0
+  },
+  {
+   "line_id": "L43",
+   "page": 0,
+   "text": "Lic. No. 1001234500067",
+   "bbox": [
+    0.8060606278099469,
+    0.5976696589178195,
+    0.8875976232755356,
+    0.6176285406905035
+   ],
+   "source": "pdf",
+   "font_size_mm": 2.47,
+   "cap_height_mm": 1.78,
+   "confidence": 1.0
+  },
+  {
+   "line_id": "L44",
+   "page": 0,
+   "text": "Customer Care: 1800-123-4567 | care@crunchwell.in",
+   "bbox": [
+    0.5030303139049734,
+    0.6075466968754251,
+    0.6801723330767998,
+    0.6275055786481091
+   ],
+   "source": "pdf",
+   "font_size_mm": 2.47,
+   "cap_height_mm": 1.78,
+   "confidence": 1.0
+  },
+  {
+   "line_id": "L45",
+   "page": 0,
+   "text": "8 901234 567890",
+   "bbox": [
+    0.8060606278099469,
+    0.698240290847116,
+    0.8559883493131177,
+    0.7153479761710855
+   ],
+   "source": "pdf",
+   "font_size_mm": 2.12,
+   "cap_height_mm": 1.52,
+   "confidence": 1.0
+  },
+  {
+   "line_id": "L46",
+   "page": 0,
+   "text": "Net Wt. 150 g",
+   "bbox": [
+    0.05454545454545454,
+    0.8420161559777092,
+    0.11495704070204263,
+    0.867733666764531
+   ],
+   "source": "pdf",
+   "font_size_mm": 3.17,
+   "cap_height_mm": 2.29,
+   "confidence": 1.0
+  }
+ ],
+ "rules": [
+  {
+   "rule_id": "LBL-01a",
+   "title": "Name of the food - Placement",
+   "requirement": "The name of the food must appear on the front panel (principal display panel).",
+   "check_type": "presence",
+   "severity": "critical",
+   "applies_when": "always",
+   "source_document": "rulebook_snacks_india.pdf",
+   "source_section": "Section A - Mandatory declarations",
+   "source_quote": "The name of the food must appear on the front panel (principal display panel) and must match the approved product name exactly.",
+   "search_terms": []
+  },
+  {
+   "rule_id": "LBL-01b",
+   "title": "Name of the food - Approved Name Match",
+   "requirement": "The name of the food must match the approved product name exactly.",
+   "check_type": "match_approved_info",
+   "severity": "major",
+   "applies_when": "always",
+   "source_document": "rulebook_snacks_india.pdf",
+   "source_section": "Section A - Mandatory declarations",
+   "source_quote": "The name of the food must appear on the front panel (principal display panel) and must match the approved product name exactly.",
+   "search_terms": []
+  },
+  {
+   "rule_id": "LBL-02a",
+   "title": "Net quantity - Placement and Units",
+   "requirement": "The net quantity must be declared on the front panel in metric units (g or kg).",
+   "check_type": "format",
+   "severity": "critical",
+   "applies_when": "always",
+   "source_document": "rulebook_snacks_india.pdf",
+   "source_section": "Section A - Mandatory declarations",
+   "source_quote": "The net quantity must be declared on the front panel in metric units (g or kg) and must match the approved net quantity.",
+   "search_terms": [
+    "g",
+    "kg"
+   ]
+  },
+  {
+   "rule_id": "LBL-02b",
+   "title": "Net quantity - Match Approved Quantity",
+   "requirement": "The declared net quantity must match the approved net quantity.",
+   "check_type": "match_approved_info",
+   "severity": "critical",
+   "applies_when": "always",
+   "source_document": "rulebook_snacks_india.pdf",
+   "source_section": "Section A - Mandatory declarations",
+   "source_quote": "The net quantity must be declared on the front panel in metric units (g or kg) and must match the approved net quantity.",
+   "search_terms": []
+  },
+  {
+   "rule_id": "LBL-02c",
+   "title": "Net quantity - Minimum Numeral Height",
+   "requirement": "The numerals of the net quantity declaration must be at least 4 mm high.",
+   "check_type": "numeric_threshold",
+   "severity": "major",
+   "applies_when": "always",
+   "source_document": "rulebook_snacks_india.pdf",
+   "source_section": "Section A - Mandatory declarations",
+   "source_quote": "The numerals of the net quantity declaration must be at least 4 mm high.",
+   "search_terms": []
+  },
+  {
+   "rule_id": "LBL-03a",
+   "title": "List of ingredients - Heading and Order",
+   "requirement": "The ingredients must be listed under the heading \"Ingredients\" in descending order of weight.",
+   "check_type": "format",
+   "severity": "major",
+   "applies_when": "always",
+   "source_document": "rulebook_snacks_india.pdf",
+   "source_section": "Section A - Mandatory declarations",
+   "source_quote": "The ingredients must be listed under the heading \"Ingredients\" in descending order of weight.",
+   "search_terms": [
+    "Ingredients"
+   ]
+  },
+  {
+   "rule_id": "LBL-03b",
+   "title": "List of ingredients - Formulation and QUID Match",
+   "requirement": "The ingredient list must match the approved formulation, including the declared percentage of characterising ingredients (QUID).",
+   "check_type": "match_approved_info",
+   "severity": "critical",
+   "applies_when": "always",
+   "source_document": "rulebook_snacks_india.pdf",
+   "source_section": "Section A - Mandatory declarations",
+   "source_quote": "The list must match the approved formulation, including the declared percentage of characterising ingredients (QUID).",
+   "search_terms": [
+    "%"
+   ]
+  },
+  {
+   "rule_id": "LBL-04a",
+   "title": "Allergen declaration - Contains Statement",
+   "requirement": "Allergens present in the product must be declared in a separate \"Contains:\" statement immediately after the ingredient list.",
+   "check_type": "presence",
+   "severity": "critical",
+   "applies_when": "allergens are present in the product",
+   "source_document": "rulebook_snacks_india.pdf",
+   "source_section": "Section A - Mandatory declarations",
+   "source_quote": "Allergens present in the product must be declared in a separate \"Contains:\" statement immediately after the ingredient list (for example \"Contains: Peanuts\").",
+   "search_terms": [
+    "Contains:"
+   ]
+  },
+  {
+   "rule_id": "LBL-04b",
+   "title": "Allergen declaration - Precautionary Labelling",
+   "requirement": "A \"May contain\" statement covers cross-contact only and must not replace the mandatory \"Contains:\" statement.",
+   "check_type": "format",
+   "severity": "critical",
+   "applies_when": "allergens are present in the product",
+   "source_document": "rulebook_snacks_india.pdf",
+   "source_section": "Section A - Mandatory declarations",
+   "source_quote": "A \"May contain\" statement covers cross-contact only and does not replace the \"Contains:\" statement.",
+   "search_terms": [
+    "Contains:"
+   ]
+  },
+  {
+   "rule_id": "LBL-05a",
+   "title": "Nutritional information - Required Nutrients and Basis",
+   "requirement": "Nutrition information must be given per 100 g and must include Energy (kcal), Protein, Carbohydrate, Total Sugars, Added Sugars, Total Fat, Saturated Fat, Trans Fat and Sodium (mg).",
+   "check_type": "presence",
+   "severity": "critical",
+   "applies_when": "always",
+   "source_document": "rulebook_snacks_india.pdf",
+   "source_section": "Section A - Mandatory declarations",
+   "source_quote": "Nutrition information must be given per 100 g and must include Energy (kcal), Protein, Carbohydrate, Total Sugars, Added Sugars, Total Fat, Saturated Fat, Trans Fat and Sodium (mg).",
+   "search_terms": [
+    "per 100 g",
+    "Energy",
+    "Protein",
+    "Carbohydrate",
+    "Total Sugars",
+    "Added Sugars",
+    "Total Fat",
+    "Saturated Fat",
+    "Trans Fat",
+    "Sodium"
+   ]
+  },
+  {
+   "rule_id": "LBL-05b",
+   "title": "Nutritional information - Approved Data Match",
+   "requirement": "All declared nutritional values must match the approved nutrition data.",
+   "check_type": "match_approved_info",
+   "severity": "major",
+   "applies_when": "always",
+   "source_document": "rulebook_snacks_india.pdf",
+   "source_section": "Section A - Mandatory declarations",
+   "source_quote": "All values must match the approved nutrition data.",
+   "search_terms": []
+  },
+  {
+   "rule_id": "LBL-06",
+   "title": "Veg / Non-veg symbol",
+   "requirement": "Vegetarian products must carry the green vegetarian symbol (a green square outline containing a filled green circle) on the front panel, close to the name of the food.",
+   "check_type": "visual",
+   "severity": "critical",
+   "applies_when": "product is vegetarian",
+   "source_document": "rulebook_snacks_india.pdf",
+   "source_section": "Section A - Mandatory declarations",
+   "source_quote": "Vegetarian products must carry the green vegetarian symbol (a green square outline containing a filled green circle) on the front panel, close to the name of the food.",
+   "search_terms": []
+  },
+  {
+   "rule_id": "LBL-07a",
+   "title": "FSSAI logo and licence - Presence",
+   "requirement": "The FSSAI logo and the 14-digit FSSAI licence number of the brand owner must be displayed.",
+   "check_type": "presence",
+   "severity": "critical",
+   "applies_when": "always",
+   "source_document": "rulebook_snacks_india.pdf",
+   "source_section": "Section A - Mandatory declarations",
+   "source_quote": "The FSSAI logo and the 14-digit FSSAI licence number of the brand owner must be displayed.",
+   "search_terms": [
+    "fssai",
+    "Lic. No."
+   ]
+  },
+  {
+   "rule_id": "LBL-07b",
+   "title": "FSSAI licence number - Match Approved Licence",
+   "requirement": "The displayed 14-digit FSSAI licence number must match the approved licence number.",
+   "check_type": "match_approved_info",
+   "severity": "major",
+   "applies_when": "always",
+   "source_document": "rulebook_snacks_india.pdf",
+   "source_section": "Section A - Mandatory declarations",
+   "source_quote": "The licence number must match the approved licence number.",
+   "search_terms": []
+  },
+  {
+   "rule_id": "LBL-08",
+   "title": "Manufacturer address",
+   "requirement": "The name and complete address of the manufacturer, including the PIN code, must be declared.",
+   "check_type": "presence",
+   "severity": "major",
+   "applies_when": "always",
+   "source_document": "rulebook_snacks_india.pdf",
+   "source_section": "Section A - Mandatory declarations",
+   "source_quote": "The name and complete address of the manufacturer, including the PIN code, must be declared.",
+   "search_terms": []
+  },
+  {
+   "rule_id": "LBL-09",
+   "title": "Maximum retail price",
+   "requirement": "The MRP must be declared as \"MRP Rs.\" (or the Rupee symbol) followed by the amount and the words \"Incl. of all taxes\".",
+   "check_type": "format",
+   "severity": "major",
+   "applies_when": "always",
+   "source_document": "rulebook_snacks_india.pdf",
+   "source_section": "Section A - Mandatory declarations",
+   "source_quote": "The MRP must be declared as \"MRP Rs.\" (or the Rupee symbol) followed by the amount and the words \"Incl. of all taxes\".",
+   "search_terms": [
+    "MRP",
+    "Incl. of all taxes"
+   ]
+  },
+  {
+   "rule_id": "LBL-10a",
+   "title": "Date marking - Best Before or Use By",
+   "requirement": "The pack must declare a \"Best Before\" or \"Use By\" statement.",
+   "check_type": "presence",
+   "severity": "critical",
+   "applies_when": "always",
+   "source_document": "rulebook_snacks_india.pdf",
+   "source_section": "Section A - Mandatory declarations",
+   "source_quote": "The pack must declare a \"Best Before\" or \"Use By\" statement, and provide space for the batch number and the date of manufacture.",
+   "search_terms": [
+    "Best Before",
+    "Use By"
+   ]
+  },
+  {
+   "rule_id": "LBL-10b",
+   "title": "Date marking - Batch Number and Manufacture Date",
+   "requirement": "The pack must provide space for the batch number and the date of manufacture.",
+   "check_type": "presence",
+   "severity": "major",
+   "applies_when": "always",
+   "source_document": "rulebook_snacks_india.pdf",
+   "source_section": "Section A - Mandatory declarations",
+   "source_quote": "The pack must declare a \"Best Before\" or \"Use By\" statement, and provide space for the batch number and the date of manufacture.",
+   "search_terms": [
+    "Batch No.",
+    "Mfg Date",
+    "Date of Manufacture",
+    "Batch"
+   ]
+  },
+  {
+   "rule_id": "LBL-11",
+   "title": "Consumer care",
+   "requirement": "A consumer care telephone number and e-mail address must be printed.",
+   "check_type": "presence",
+   "severity": "major",
+   "applies_when": "always",
+   "source_document": "rulebook_snacks_india.pdf",
+   "source_section": "Section A - Mandatory declarations",
+   "source_quote": "A consumer care telephone number and e-mail address must be printed.",
+   "search_terms": [
+    "Consumer Care",
+    "@"
+   ]
+  },
+  {
+   "rule_id": "LBL-12",
+   "title": "Storage instructions",
+   "requirement": "Storage instructions must be printed for products whose shelf life depends on storage conditions.",
+   "check_type": "presence",
+   "severity": "major",
+   "applies_when": "product shelf life depends on storage conditions",
+   "source_document": "rulebook_snacks_india.pdf",
+   "source_section": "Section A - Mandatory declarations",
+   "source_quote": "Storage instructions must be printed for products whose shelf life depends on storage conditions.",
+   "search_terms": [
+    "Store in a"
+   ]
+  },
+  {
+   "rule_id": "CLM-01",
+   "title": "Approved claims only",
+   "requirement": "Only claims listed as approved in the product specification may appear on the pack.",
+   "check_type": "claim",
+   "severity": "critical",
+   "applies_when": "artwork carries any claim",
+   "source_document": "rulebook_snacks_india.pdf",
+   "source_section": "Section B - Claims (brand and regulatory)",
+   "source_quote": "Only claims listed as approved in the product specification may appear on the pack.",
+   "search_terms": []
+  },
+  {
+   "rule_id": "CLM-02a",
+   "title": "Protein claims - Source of protein",
+   "requirement": "\"Source of protein\" claim requires at least 10 g protein per 100 g.",
+   "check_type": "numeric_threshold",
+   "severity": "critical",
+   "applies_when": "a \"Source of protein\" claim is made",
+   "source_document": "rulebook_snacks_india.pdf",
+   "source_section": "Section B - Claims (brand and regulatory)",
+   "source_quote": "\"Source of protein\" requires at least 10 g protein per 100 g.",
+   "search_terms": [
+    "Source of protein"
+   ]
+  },
+  {
+   "rule_id": "CLM-02b",
+   "title": "Protein claims - High protein",
+   "requirement": "\"High protein\" claim requires at least 20 g protein per 100 g.",
+   "check_type": "numeric_threshold",
+   "severity": "critical",
+   "applies_when": "a \"High protein\" claim is made",
+   "source_document": "rulebook_snacks_india.pdf",
+   "source_section": "Section B - Claims (brand and regulatory)",
+   "source_quote": "\"High protein\" requires at least 20 g protein per 100 g.",
+   "search_terms": [
+    "High protein"
+   ]
+  },
+  {
+   "rule_id": "CLM-03",
+   "title": "Health claims",
+   "requirement": "Claims that a food prevents, treats or cures a disease, or boosts immunity, are prohibited on snack products.",
+   "check_type": "claim",
+   "severity": "critical",
+   "applies_when": "always",
+   "source_document": "rulebook_snacks_india.pdf",
+   "source_section": "Section B - Claims (brand and regulatory)",
+   "source_quote": "Claims that a food prevents, treats or cures a disease, or boosts immunity, are prohibited on snack products.",
+   "search_terms": []
+  },
+  {
+   "rule_id": "DSN-01",
+   "title": "Brand logo",
+   "requirement": "The Crunchwell brand name must appear on the front panel.",
+   "check_type": "presence",
+   "severity": "minor",
+   "applies_when": "always",
+   "source_document": "rulebook_snacks_india.pdf",
+   "source_section": "Section C - Design standards",
+   "source_quote": "The Crunchwell brand name must appear on the front panel.",
+   "search_terms": [
+    "Crunchwell"
+   ]
+  },
+  {
+   "rule_id": "DSN-02",
+   "title": "Legibility - Back panel x-height",
+   "requirement": "Mandatory information on the back panel must not be smaller than 1.0 mm x-height.",
+   "check_type": "numeric_threshold",
+   "severity": "major",
+   "applies_when": "always",
+   "source_document": "rulebook_snacks_india.pdf",
+   "source_section": "Section C - Design standards",
+   "source_quote": "Mandatory information on the back panel must not be smaller than 1.0 mm x-height.",
+   "search_terms": []
+  }
+ ],
+ "spec_facts": {
+  "product_name": "Masala Crunch Peanuts",
+  "brand": "Crunchwell",
+  "net_quantity": "200 g",
+  "ingredients": "Peanuts (72%), Gram Flour (Besan), Edible Vegetable Oil (Palmolein), Spices & Condiments (Red Chilli, Turmeric, Coriander, Cumin), Iodised Salt, Curry Leaves (1%), Black Salt, Acidity Regulator (INS 330)",
+  "allergens_contains": [
+   "Peanuts"
+  ],
+  "allergens_may_contain": [
+   "Gluten"
+  ],
+  "allergen_statement": "",
+  "nutrition_basis": "per 100g",
+  "nutrition": [
+   {
+    "nutrient": "Energy",
+    "value": "560",
+    "unit": "kcal"
+   },
+   {
+    "nutrient": "Protein",
+    "value": "18.5",
+    "unit": "g"
+   },
+   {
+    "nutrient": "Carbohydrate",
+    "value": "30.2",
+    "unit": "g"
+   },
+   {
+    "nutrient": "Total Sugars",
+    "value": "2.1",
+    "unit": "g"
+   },
+   {
+    "nutrient": "Added Sugars",
+    "value": "0",
+    "unit": "g"
+   },
+   {
+    "nutrient": "Total Fat",
+    "value": "40.5",
+    "unit": "g"
+   },
+   {
+    "nutrient": "Saturated Fat",
+    "value": "7.8",
+    "unit": "g"
+   },
+   {
+    "nutrient": "Trans Fat",
+    "value": "0.1",
+    "unit": "g"
+   },
+   {
+    "nutrient": "Sodium",
+    "value": "560",
+    "unit": "mg"
+   }
+  ],
+  "licence_numbers": [
+   "10012345000678"
+  ],
+  "mrp": "Rs. 60.00 (Incl. of all taxes)",
+  "claims": [
+   "Source of Protein"
+  ],
+  "veg_status": "Vegetarian (green symbol)",
+  "storage": "Store in a cool, dry place. Once opened, transfer contents to an airtight container.",
+  "date_marking": "Best Before 6 months from manufacture",
+  "manufacturer": "Crunchwell Foods Pvt. Ltd., Plot 42, MIDC Industrial Area, Chakan, Pune, Maharashtra - 410501, India",
+  "customer_care": "1800-123-4567 | care@crunchwell.in",
+  "other": [
+   {
+    "name": "Descriptor",
+    "value": "Roasted & Spiced Peanut Snack"
+   },
+   {
+    "name": "Target market",
+    "value": "India"
+   }
+  ]
+ },
+ "reading": {
+  "panels": [
+   "front",
+   "back"
+  ],
+  "elements": [
+   {
+    "element_id": "E1",
+    "role": "brand",
+    "text": "CRUNCHWELL",
+    "page": 0,
+    "panel": "front",
+    "line_ids": [
+     "L4"
+    ]
+   },
+   {
+    "element_id": "E2",
+    "role": "product_name",
+    "text": "Masala Crunch Peanuts",
+    "page": 0,
+    "panel": "front",
+    "line_ids": [
+     "L10",
+     "L16"
+    ]
+   },
+   {
+    "element_id": "E3",
+    "role": "descriptor",
+    "text": "Roasted & Spiced Peanut Snack",
+    "page": 0,
+    "panel": "front",
+    "line_ids": [
+     "L22"
+    ]
+   },
+   {
+    "element_id": "E4",
+    "role": "claim",
+    "text": "HIGH PROTEIN",
+    "page": 0,
+    "panel": "front",
+    "line_ids": [
+     "L33"
+    ]
+   },
+   {
+    "element_id": "E5",
+    "role": "claim",
+    "text": "Boosts Immunity!",
+    "page": 0,
+    "panel": "front",
+    "line_ids": [
+     "L38"
+    ]
+   },
+   {
+    "element_id": "E6",
+    "role": "net_quantity",
+    "text": "Net Wt. 150 g",
+    "page": 0,
+    "panel": "front",
+    "line_ids": [
+     "L46"
+    ]
+   },
+   {
+    "element_id": "E7",
+    "role": "symbol",
+    "text": "Vegetarian green dot and square symbol",
+    "page": 0,
+    "panel": "front",
+    "line_ids": []
+   },
+   {
+    "element_id": "E8",
+    "role": "ingredients",
+    "text": "INGREDIENTS:\nPeanuts (70%), Gram Flour (Besan), Edible Vegetable Oil (Palmolein), Spices & Condiments (Red Chilli, Turmeric, Coriander, Cumin), Iodised Salt, Curry Leaves (1%), Black Salt, Acidity Regulator (INS 330).",
+    "page": 0,
+    "panel": "back",
+    "line_ids": [
+     "L3",
+     "L5",
+     "L6"
+    ]
+   },
+   {
+    "element_id": "E9",
+    "role": "allergen_statement",
+    "text": "May contain traces of gluten.",
+    "page": 0,
+    "panel": "back",
+    "line_ids": [
+     "L7"
+    ]
+   },
+   {
+    "element_id": "E10",
+    "role": "nutrition_table",
+    "text": "NUTRITIONAL INFORMATION (Approx.)\nPer 100 g\nEnergy (kcal) 560\nProtein (g) 18.5\nCarbohydrate (g) 30.2\nTotal Sugars (g) 2.1\nAdded Sugars (g) 0\nTotal Fat (g) 40.5\nSaturated Fat (g) 7.8\nTrans Fat (g) 0.1\nSodium (mg) 610",
+    "page": 0,
+    "panel": "back",
+    "line_ids": [
+     "L9",
+     "L12",
+     "L14",
+     "L15",
+     "L17",
+     "L18",
+     "L20",
+     "L21",
+     "L23",
+     "L24",
+     "L26",
+     "L27",
+     "L28",
+     "L29",
+     "L31",
+     "L32",
+     "L34",
+     "L35",
+     "L36",
+     "L37"
+    ]
+   },
+   {
+    "element_id": "E11",
+    "role": "storage",
+    "text": "STORAGE:\nStore in a cool, dry place. Once opened, transfer contents to an airtight container.",
+    "page": 0,
+    "panel": "back",
+    "line_ids": [
+     "L8",
+     "L11",
+     "L13"
+    ]
+   },
+   {
+    "element_id": "E12",
+    "role": "date_marking",
+    "text": "Best Before 6 months from manufacture.\nBatch No.: / Mfg. Date: See crimp",
+    "page": 0,
+    "panel": "back",
+    "line_ids": [
+     "L19",
+     "L25"
+    ]
+   },
+   {
+    "element_id": "E13",
+    "role": "mrp",
+    "text": "MRP Rs. 60.00 (Incl. of all taxes)",
+    "page": 0,
+    "panel": "back",
+    "line_ids": [
+     "L30"
+    ]
+   },
+   {
+    "element_id": "E14",
+    "role": "manufacturer",
+    "text": "Manufactured & Marketed by:\nCrunchwell Foods Pvt. Ltd., Plot 42, MIDC Industrial Area, Chakan, Pune, Maharashtra - 410501, India",
+    "page": 0,
+    "panel": "back",
+    "line_ids": [
+     "L39",
+     "L41",
+     "L42"
+    ]
+   },
+   {
+    "element_id": "E15",
+    "role": "licence",
+    "text": "fssai Lic. No. 1001234500067",
+    "page": 0,
+    "panel": "back",
+    "line_ids": [
+     "L40",
+     "L43"
+    ]
+   },
+   {
+    "element_id": "E16",
+    "role": "customer_care",
+    "text": "Customer Care: 1800-123-4567 | care@crunchwell.in",
+    "page": 0,
+    "panel": "back",
+    "line_ids": [
+     "L44"
+    ]
+   },
+   {
+    "element_id": "E17",
+    "role": "barcode",
+    "text": "8 901234 567890",
+    "page": 0,
+    "panel": "back",
+    "line_ids": [
+     "L45"
+    ]
+   }
+  ],
+  "symbols": [
+   {
+    "name": "vegetarian symbol",
+    "present": true,
+    "description": "Green filled circle inside a green square frame on a white background, located on the top right of the front panel",
+    "page": 0,
+    "panel": "front"
+   },
+   {
+    "name": "FSSAI logo",
+    "present": true,
+    "description": "Standard FSSAI wordmark within a rectangular box outline above the licence number on the back panel",
+    "page": 0,
+    "panel": "back"
+   }
+  ],
+  "facts": {
+   "product_name": "Masala Crunch Peanuts",
+   "brand": "CRUNCHWELL",
+   "net_quantity": "150 g",
+   "ingredients": "Peanuts (70%), Gram Flour (Besan), Edible Vegetable Oil (Palmolein), Spices & Condiments (Red Chilli, Turmeric, Coriander, Cumin), Iodised Salt, Curry Leaves (1%), Black Salt, Acidity Regulator (INS 330).",
+   "allergens_contains": [],
+   "allergens_may_contain": [
+    "gluten"
+   ],
+   "allergen_statement": "May contain traces of gluten.",
+   "nutrition_basis": "Per 100 g",
+   "nutrition": [
+    {
+     "nutrient": "Energy",
+     "value": "560",
+     "unit": "kcal"
+    },
+    {
+     "nutrient": "Protein",
+     "value": "18.5",
+     "unit": "g"
+    },
+    {
+     "nutrient": "Carbohydrate",
+     "value": "30.2",
+     "unit": "g"
+    },
+    {
+     "nutrient": "Total Sugars",
+     "value": "2.1",
+     "unit": "g"
+    },
+    {
+     "nutrient": "Added Sugars",
+     "value": "0",
+     "unit": "g"
+    },
+    {
+     "nutrient": "Total Fat",
+     "value": "40.5",
+     "unit": "g"
+    },
+    {
+     "nutrient": "Saturated Fat",
+     "value": "7.8",
+     "unit": "g"
+    },
+    {
+     "nutrient": "Trans Fat",
+     "value": "0.1",
+     "unit": "g"
+    },
+    {
+     "nutrient": "Sodium",
+     "value": "610",
+     "unit": "mg"
+    }
+   ],
+   "licence_numbers": [
+    "1001234500067"
+   ],
+   "mrp": "Rs. 60.00 (Incl. of all taxes)",
+   "claims": [
+    "HIGH PROTEIN",
+    "Boosts Immunity!"
+   ],
+   "veg_status": "vegetarian",
+   "storage": "Store in a cool, dry place. Once opened, transfer contents to an airtight container.",
+   "date_marking": "Best Before 6 months from manufacture. Batch No.: / Mfg. Date: See crimp",
+   "manufacturer": "Crunchwell Foods Pvt. Ltd., Plot 42, MIDC Industrial Area, Chakan, Pune, Maharashtra - 410501, India",
+   "customer_care": "Customer Care: 1800-123-4567 | care@crunchwell.in",
+   "other": []
+  },
+  "legibility_concerns": [
+   "Green text for 'Boosts Immunity!' on warm yellow/gold background has poor color contrast and may fall below recommended accessibility/legibility contrast ratios."
+  ]
+ },
+ "checks": [
+  {
+   "check_id": "D1",
+   "topic": "Product name",
+   "status": "match",
+   "expected": "Masala Crunch Peanuts",
+   "found": "Masala Crunch Peanuts",
+   "detail": "Similarity 100/100.",
+   "artwork_quote": "Masala Crunch Peanuts",
+   "artwork_verified": true
+  },
+  {
+   "check_id": "D2",
+   "topic": "Brand",
+   "status": "match",
+   "expected": "Crunchwell",
+   "found": "CRUNCHWELL",
+   "detail": "Similarity 100/100.",
+   "artwork_quote": "Customer Care: 1800-123-4567 | care@crunchwell.in",
+   "artwork_verified": true
+  },
+  {
+   "check_id": "D3",
+   "topic": "Net quantity",
+   "status": "mismatch",
+   "expected": "200 g",
+   "found": "150 g",
+   "detail": "Approved 200 vs printed 150 (base units).",
+   "artwork_quote": "Net Wt. 150 g",
+   "artwork_verified": true
+  },
+  {
+   "check_id": "D4",
+   "topic": "Ingredients",
+   "status": "mismatch",
+   "expected": "Peanuts (72%), Gram Flour (Besan), Edible Vegetable Oil (Palmolein), Spices & Condiments (Red Chilli, Turmeric, Coriander, Cumin), Iodised Salt, Curry Leaves (1%), Black Salt, Acidity Regulator (INS 330)",
+   "found": "Peanuts (70%), Gram Flour (Besan), Edible Vegetable Oil (Palmolein), Spices & Condiments (Red Chilli, Turmeric, Coriander, Cumin), Iodised Salt, Curry Leaves (1%), Black Salt, Acidity Regulator (INS 330).",
+   "detail": "'Peanuts' percentage 72% approved vs 70% printed.",
+   "artwork_quote": "Peanuts (70%), Gram Flour (Besan), Edible Vegetable Oil (Palmolein), Spices & Condiments (Red Chilli, Turmeric, Coriander, Cumin), Iodised Salt, Curry Leaves (1%), Black Salt, Acidity Regulator (INS 330).",
+   "artwork_verified": true
+  },
+  {
+   "check_id": "D5",
+   "topic": "Allergens (Contains)",
+   "status": "not_found",
+   "expected": "peanuts",
+   "found": "",
+   "detail": "Not declared on artwork: peanuts.",
+   "artwork_quote": "May contain traces of gluten.",
+   "artwork_verified": true
+  },
+  {
+   "check_id": "D6",
+   "topic": "Allergens (May contain)",
+   "status": "match",
+   "expected": "gluten",
+   "found": "gluten",
+   "detail": "All approved allergens declared.",
+   "artwork_quote": "May contain traces of gluten.",
+   "artwork_verified": true
+  },
+  {
+   "check_id": "D7",
+   "topic": "Nutrition: Energy",
+   "status": "match",
+   "expected": "560 kcal",
+   "found": "560 kcal",
+   "detail": "",
+   "artwork_quote": "Energy (kcal) 560",
+   "artwork_verified": true
+  },
+  {
+   "check_id": "D8",
+   "topic": "Nutrition: Protein",
+   "status": "match",
+   "expected": "18.5 g",
+   "found": "18.5 g",
+   "detail": "",
+   "artwork_quote": "Protein (g) 18.5",
+   "artwork_verified": true
+  },
+  {
+   "check_id": "D9",
+   "topic": "Nutrition: Carbohydrate",
+   "status": "match",
+   "expected": "30.2 g",
+   "found": "30.2 g",
+   "detail": "",
+   "artwork_quote": "Carbohydrate (g) 30.2",
+   "artwork_verified": true
+  },
+  {
+   "check_id": "D10",
+   "topic": "Nutrition: Total Sugars",
+   "status": "match",
+   "expected": "2.1 g",
+   "found": "2.1 g",
+   "detail": "",
+   "artwork_quote": "Total Sugars (g) 2.1",
+   "artwork_verified": true
+  },
+  {
+   "check_id": "D11",
+   "topic": "Nutrition: Added Sugars",
+   "status": "match",
+   "expected": "0 g",
+   "found": "0 g",
+   "detail": "",
+   "artwork_quote": "Added Sugars (g) 0",
+   "artwork_verified": true
+  },
+  {
+   "check_id": "D12",
+   "topic": "Nutrition: Total Fat",
+   "status": "match",
+   "expected": "40.5 g",
+   "found": "40.5 g",
+   "detail": "",
+   "artwork_quote": "Total Fat (g) 40.5",
+   "artwork_verified": true
+  },
+  {
+   "check_id": "D13",
+   "topic": "Nutrition: Saturated Fat",
+   "status": "match",
+   "expected": "7.8 g",
+   "found": "7.8 g",
+   "detail": "",
+   "artwork_quote": "Saturated Fat (g) 7.8",
+   "artwork_verified": true
+  },
+  {
+   "check_id": "D14",
+   "topic": "Nutrition: Trans Fat",
+   "status": "match",
+   "expected": "0.1 g",
+   "found": "0.1 g",
+   "detail": "",
+   "artwork_quote": "Trans Fat (g) 0.1",
+   "artwork_verified": true
+  },
+  {
+   "check_id": "D15",
+   "topic": "Nutrition: Sodium",
+   "status": "mismatch",
+   "expected": "560 mg",
+   "found": "610 mg",
+   "detail": "Value or unit differs from approved nutrition data.",
+   "artwork_quote": "Sodium (mg) 610",
+   "artwork_verified": true
+  },
+  {
+   "check_id": "D16",
+   "topic": "Licence number",
+   "status": "mismatch",
+   "expected": "10012345000678",
+   "found": "1001234500067",
+   "detail": "Approved has 14 digits, printed has 13 digits.",
+   "artwork_quote": "Lic. No. 1001234500067",
+   "artwork_verified": true
+  },
+  {
+   "check_id": "D17",
+   "topic": "MRP",
+   "status": "match",
+   "expected": "Rs. 60.00 (Incl. of all taxes)",
+   "found": "Rs. 60.00 (Incl. of all taxes)",
+   "detail": "Similarity 100/100.",
+   "artwork_quote": "MRP Rs. 60.00 (Incl. of all taxes)",
+   "artwork_verified": true
+  },
+  {
+   "check_id": "D18",
+   "topic": "Manufacturer name/address",
+   "status": "match",
+   "expected": "Crunchwell Foods Pvt. Ltd., Plot 42, MIDC Industrial Area, Chakan, Pune, Maharashtra - 410501, India",
+   "found": "Crunchwell Foods Pvt. Ltd., Plot 42, MIDC Industrial Area, Chakan, Pune, Maharashtra - 410501, India",
+   "detail": "Similarity 100/100.",
+   "artwork_quote": "Crunchwell Foods Pvt. Ltd., Plot 42, MIDC Industrial Area, Chakan, Pune, Maharashtra - 410501, India",
+   "artwork_verified": true
+  },
+  {
+   "check_id": "D19",
+   "topic": "Customer care",
+   "status": "match",
+   "expected": "1800-123-4567 | care@crunchwell.in",
+   "found": "Customer Care: 1800-123-4567 | care@crunchwell.in",
+   "detail": "Similarity 100/100.",
+   "artwork_quote": "Customer Care: 1800-123-4567 | care@crunchwell.in",
+   "artwork_verified": true
+  },
+  {
+   "check_id": "D20",
+   "topic": "Storage instructions",
+   "status": "match",
+   "expected": "Store in a cool, dry place. Once opened, transfer contents to an airtight container.",
+   "found": "Store in a cool, dry place. Once opened, transfer contents to an airtight container.",
+   "detail": "Similarity 100/100.",
+   "artwork_quote": "Store in a cool, dry place. Once opened, transfer contents to an airtight container.",
+   "artwork_verified": true
+  },
+  {
+   "check_id": "D21",
+   "topic": "Date marking / shelf life",
+   "status": "match",
+   "expected": "Best Before 6 months from manufacture",
+   "found": "Best Before 6 months from manufacture. Batch No.: / Mfg. Date: See crimp",
+   "detail": "Similarity 100/100.",
+   "artwork_quote": "Best Before 6 months from manufacture. Batch No.: / Mfg. Date: See crimp",
+   "artwork_verified": true
+  },
+  {
+   "check_id": "D22",
+   "topic": "Claim: HIGH PROTEIN",
+   "status": "mismatch",
+   "expected": "Source of Protein",
+   "found": "HIGH PROTEIN",
+   "detail": "Claim is not in the approved claims list.",
+   "artwork_quote": "HIGH PROTEIN",
+   "artwork_verified": true
+  },
+  {
+   "check_id": "D23",
+   "topic": "Claim: Boosts Immunity!",
+   "status": "mismatch",
+   "expected": "Source of Protein",
+   "found": "Boosts Immunity!",
+   "detail": "Claim is not in the approved claims list.",
+   "artwork_quote": "Boosts Immunity!",
+   "artwork_verified": true
+  },
+  {
+   "check_id": "D24",
+   "topic": "Text size: Product name",
+   "status": "info",
+   "expected": "",
+   "found": "5.59 mm",
+   "detail": "Measured numeral/cap height ≈ 5.59 mm (PDF text layer; font size 7.76 mm em).",
+   "artwork_quote": "Masala Crunch Peanuts",
+   "artwork_verified": true
+  },
+  {
+   "check_id": "D25",
+   "topic": "Text size: Net quantity",
+   "status": "info",
+   "expected": "",
+   "found": "2.29 mm",
+   "detail": "Measured numeral/cap height ≈ 2.29 mm (PDF text layer; font size 3.17 mm em).",
+   "artwork_quote": "Net Wt. 150 g",
+   "artwork_verified": true
+  },
+  {
+   "check_id": "D26",
+   "topic": "Text size: smallest text",
+   "status": "info",
+   "expected": "",
+   "found": "1.10 mm x-height",
+   "detail": "Smallest text is 'FRONT PANEL (PDP)' - font size 2.12 mm, x-height ≈ 1.10 mm (PDF text layer).",
+   "artwork_quote": "",
+   "artwork_verified": true
+  }
+ ],
+ "findings": [
+  {
+   "finding_id": "F1",
+   "rule_id": "CLM-01",
+   "title": "Approved claims only",
+   "check_type": "claim",
+   "severity": "critical",
+   "ai_verdict": "FAIL",
+   "verdict": "FAIL",
+   "confidence": 0.99,
+   "summary": "Artwork displays unapproved claims 'HIGH PROTEIN' and 'Boosts Immunity!'.",
+   "expected": "Only claims listed as approved ('Source of Protein') may appear on pack",
+   "found": "'HIGH PROTEIN' and 'Boosts Immunity!'",
+   "reasoning": "Checks D22 and D23 confirm that neither 'HIGH PROTEIN' nor 'Boosts Immunity!' is an approved claim. Only 'Source of Protein' is approved.",
+   "suggested_fix": "Remove 'HIGH PROTEIN' and 'Boosts Immunity!' from the front panel, and replace 'HIGH PROTEIN' with the approved claim 'Source of Protein'.",
+   "evidence": [
+    {
+     "source": "artwork",
+     "quote": "HIGH PROTEIN",
+     "note": "Unapproved protein claim on front panel",
+     "verified": true,
+     "match_score": 100.0,
+     "matched_text": "HIGH PROTEIN",
+     "page": 0,
+     "bbox": [
+      0.09443395219995127,
+      0.444117638863311,
+      0.20253575020708092,
+      0.48412263805143374
+     ]
+    },
+    {
+     "source": "artwork",
+     "quote": "Boosts Immunity!",
+     "note": "Unapproved health claim on front panel",
+     "verified": true,
+     "match_score": 100.0,
+     "matched_text": "Boosts Immunity!",
+     "page": 0,
+     "bbox": [
+      0.05454545454545454,
+      0.5280102724639855,
+      0.17190818167789856,
+      0.565157773971848
+     ]
+    },
+    {
+     "source": "approved_spec",
+     "quote": "\"claims\":[\"Source of Protein\"]",
+     "note": "Approved specification only permits 'Source of Protein'",
+     "verified": true,
+     "match_score": 0.0,
+     "matched_text": "",
+     "page": null,
+     "bbox": null
+    }
+   ],
+   "rule_source": "rulebook_snacks_india.pdf - Section B - Claims (brand and regulatory)",
+   "rule_quote": "Only claims listed as approved in the product specification may appear on the pack.",
+   "rule_quote_verified": true,
+   "trust_notes": [
+    "Confirmed by deterministic check(s) D22, D23."
+   ],
+   "related_checks": [
+    "D22",
+    "D23"
+   ],
+   "origin": "ai",
+   "review_decision": null,
+   "review_note": ""
+  },
+  {
+   "finding_id": "F2",
+   "rule_id": "CLM-02b",
+   "title": "Protein claims - High protein",
+   "check_type": "numeric_threshold",
+   "severity": "critical",
+   "ai_verdict": "FAIL",
+   "verdict": "FAIL",
+   "confidence": 0.99,
+   "summary": "'HIGH PROTEIN' claim requires at least 20 g protein per 100 g, but product contains only 18.5 g.",
+   "expected": "At least 20 g protein per 100 g for a 'High protein' claim",
+   "found": "Claim 'HIGH PROTEIN' with protein content of 18.5 g per 100 g",
+   "reasoning": "A 'High protein' claim legally requires at least 20 g of protein per 100 g. The artwork declares only 18.5 g per 100 g, failing the threshold.",
+   "suggested_fix": "Change the claim from 'HIGH PROTEIN' to 'Source of Protein', which requires 10 g protein per 100 g and is met by the 18.5 g formulation.",
+   "evidence": [
+    {
+     "source": "artwork",
+     "quote": "HIGH PROTEIN",
+     "note": "High protein claim on front panel",
+     "verified": true,
+     "match_score": 100.0,
+     "matched_text": "HIGH PROTEIN",
+     "page": 0,
+     "bbox": [
+      0.09443395219995127,
+      0.444117638863311,
+      0.20253575020708092,
+      0.48412263805143374
+     ]
+    },
+    {
+     "source": "artwork",
+     "quote": "Protein (g)",
+     "note": "Protein nutrient line",
+     "verified": true,
+     "match_score": 100.0,
+     "matched_text": "Protein (g)",
+     "page": 0,
+     "bbox": [
+      0.509090909090909,
+      0.3000225957730199,
+      0.5440223187385469,
+      0.319981509210184
+     ]
+    },
+    {
+     "source": "artwork",
+     "quote": "18.5",
+     "note": "Protein declared value of 18.5 g",
+     "verified": true,
+     "match_score": 100.0,
+     "matched_text": "18.5",
+     "page": 0,
+     "bbox": [
+      0.6848485283471665,
+      0.3000225957730199,
+      0.6994108429816128,
+      0.319981509210184
+     ]
+    }
+   ],
+   "rule_source": "rulebook_snacks_india.pdf - Section B - Claims (brand and regulatory)",
+   "rule_quote": "\"High protein\" requires at least 20 g protein per 100 g.",
+   "rule_quote_verified": true,
+   "trust_notes": [
+    "Confirmed by deterministic check(s) D22."
+   ],
+   "related_checks": [
+    "D8",
+    "D22"
+   ],
+   "origin": "ai",
+   "review_decision": null,
+   "review_note": ""
+  },
+  {
+   "finding_id": "F3",
+   "rule_id": "CLM-03",
+   "title": "Health claims",
+   "check_type": "claim",
+   "severity": "critical",
+   "ai_verdict": "FAIL",
+   "verdict": "FAIL",
+   "confidence": 0.99,
+   "summary": "The claim 'Boosts Immunity!' is a prohibited health claim on snack products.",
+   "expected": "No claims that boost immunity or prevent/treat disease on snack products",
+   "found": "Boosts Immunity!",
+   "reasoning": "Regulations strictly prohibit claims that a food boosts immunity on snack products. The front panel carries an explicit 'Boosts Immunity!' claim.",
+   "suggested_fix": "Remove 'Boosts Immunity!' entirely from the packaging artwork.",
+   "evidence": [
+    {
+     "source": "artwork",
+     "quote": "Boosts Immunity!",
+     "note": "Prohibited immunity claim on front panel",
+     "verified": true,
+     "match_score": 100.0,
+     "matched_text": "Boosts Immunity!",
+     "page": 0,
+     "bbox": [
+      0.05454545454545454,
+      0.5280102724639855,
+      0.17190818167789856,
+      0.565157773971848
+     ]
+    }
+   ],
+   "rule_source": "rulebook_snacks_india.pdf - Section B - Claims (brand and regulatory)",
+   "rule_quote": "Claims that a food prevents, treats or cures a disease, or boosts immunity, are prohibited on snack products.",
+   "rule_quote_verified": true,
+   "trust_notes": [
+    "Confirmed by deterministic check(s) D23."
+   ],
+   "related_checks": [
+    "D23"
+   ],
+   "origin": "ai",
+   "review_decision": null,
+   "review_note": ""
+  },
+  {
+   "finding_id": "F4",
+   "rule_id": "LBL-02b",
+   "title": "Net quantity - Match Approved Quantity",
+   "check_type": "match_approved_info",
+   "severity": "critical",
+   "ai_verdict": "FAIL",
+   "verdict": "FAIL",
+   "confidence": 0.99,
+   "summary": "Declared net quantity of 150 g does not match the approved net quantity of 200 g.",
+   "expected": "200 g",
+   "found": "Net Wt. 150 g",
+   "reasoning": "The artwork declares 150 g, but the approved product specification requires 200 g. Check D3 confirms the mismatch.",
+   "suggested_fix": "Update the net quantity declaration from 'Net Wt. 150 g' to 'Net Wt. 200 g' to match the approved specification.",
+   "evidence": [
+    {
+     "source": "artwork",
+     "quote": "Net Wt. 150 g",
+     "note": "Printed net quantity on artwork",
+     "verified": true,
+     "match_score": 100.0,
+     "matched_text": "Net Wt. 150 g",
+     "page": 0,
+     "bbox": [
+      0.05454545454545454,
+      0.8420161559777092,
+      0.11495704070204263,
+      0.867733666764531
+     ]
+    },
+    {
+     "source": "approved_spec",
+     "quote": "200 g",
+     "note": "Approved net quantity in specification",
+     "verified": true,
+     "match_score": 0.0,
+     "matched_text": "",
+     "page": null,
+     "bbox": null
+    }
+   ],
+   "rule_source": "rulebook_snacks_india.pdf - Section A - Mandatory declarations",
+   "rule_quote": "The net quantity must be declared on the front panel in metric units (g or kg) and must match the approved net quantity.",
+   "rule_quote_verified": true,
+   "trust_notes": [
+    "Confirmed by deterministic check(s) D3."
+   ],
+   "related_checks": [
+    "D3"
+   ],
+   "origin": "ai",
+   "review_decision": null,
+   "review_note": ""
+  },
+  {
+   "finding_id": "F5",
+   "rule_id": "LBL-03b",
+   "title": "List of ingredients - Formulation and QUID Match",
+   "check_type": "match_approved_info",
+   "severity": "critical",
+   "ai_verdict": "FAIL",
+   "verdict": "FAIL",
+   "confidence": 0.99,
+   "summary": "Peanuts QUID percentage is declared as 70% instead of the approved 72%.",
+   "expected": "Peanuts (72%), Gram Flour (Besan), Edible Vegetable Oil (Palmolein), Spices & Condiments (Red Chilli, Turmeric, Coriander, Cumin), Iodised Salt, Curry Leaves (1%), Black Salt, Acidity Regulator (INS 330)",
+   "found": "Peanuts (70%), Gram Flour (Besan), Edible Vegetable Oil (Palmolein), Spices & Condiments (Red Chilli, Turmeric, Coriander, Cumin), Iodised Salt, Curry Leaves (1%), Black Salt, Acidity Regulator (INS 330).",
+   "reasoning": "The characterising ingredient QUID for peanuts is printed as 70% rather than the approved 72%, as verified by check D4.",
+   "suggested_fix": "Change 'Peanuts (70%)' to 'Peanuts (72%)' in the ingredients list to match the approved formulation.",
+   "evidence": [
+    {
+     "source": "artwork",
+     "quote": "Peanuts (70%), Gram Flour (Besan), Edible Vegetable Oil (Palmolein), Spices & Condiments (Red Chilli, Turmeric, Coriander, Cumin),",
+     "note": "Artwork ingredient list showing 70% peanuts",
+     "verified": true,
+     "match_score": 100.0,
+     "matched_text": "Peanuts (70%), Gram Flour (Besan), Edible Vegetable Oil (Palmolein), Spices & Condiments (Red Chilli, Turmeric, Coriander, Cumin),",
+     "page": 0,
+     "bbox": [
+      0.5030303139049734,
+      0.1176470802436189,
+      0.947987799924769,
+      0.1376060095130231
+     ]
+    },
+    {
+     "source": "approved_spec",
+     "quote": "Peanuts (72%)",
+     "note": "Approved specification showing 72% peanuts",
+     "verified": true,
+     "match_score": 0.0,
+     "matched_text": "",
+     "page": null,
+     "bbox": null
+    },
+    {
+     "source": "artwork",
+     "quote": "Peanuts (70%), Gram Flour (Besan), Edible Vegetable Oil (Palmolein), Spices & Condiments (Red Chilli, Turmeric, Coriander, Cumin), Iodised Salt, Curry Leaves (1%), Black Salt, Acidity Regulator (INS 330).",
+     "note": "Code check D4: Ingredients - expected 'Peanuts (72%), Gram Flour (Besan), Edible Vegetable Oil (Palmolein), Spices & Condiments (Red Chilli, Turmeric, Coriander, Cumin), Iodised Salt, Curry Leaves (1%), Black Salt, Acidity Regulator (INS 330)', found 'Peanuts (70%), Gram Flour (Besan), Edible Vegetable Oil (Palmolein), Spices & Condiments (Red Chilli, Turmeric, Coriander, Cumin), Iodised Salt, Curry Leaves (1%), Black Salt, Acidity Regulator (INS 330).'",
+     "verified": true,
+     "match_score": 100.0,
+     "matched_text": "Peanuts (70%), Gram Flour (Besan), Edible Vegetable Oil (Palmolein), Spices & Condiments (Red Chilli, Turmeric, Coriander, Cumin), Iodised Salt, Curry Leaves (1%), Black Salt, Acidity Regulator (INS 330).",
+     "page": 0,
+     "bbox": [
+      0.5030303139049734,
+      0.1176470802436189,
+      0.947987799924769,
+      0.15906179791931435
+     ]
+    }
+   ],
+   "rule_source": "rulebook_snacks_india.pdf - Section A - Mandatory declarations",
+   "rule_quote": "The list must match the approved formulation, including the declared percentage of characterising ingredients (QUID).",
+   "rule_quote_verified": true,
+   "trust_notes": [
+    "Confirmed by deterministic check(s) D4."
+   ],
+   "related_checks": [
+    "D4"
+   ],
+   "origin": "ai",
+   "review_decision": null,
+   "review_note": ""
+  },
+  {
+   "finding_id": "F6",
+   "rule_id": "LBL-04a",
+   "title": "Allergen declaration - Contains Statement",
+   "check_type": "presence",
+   "severity": "critical",
+   "ai_verdict": "FAIL",
+   "verdict": "FAIL",
+   "confidence": 0.99,
+   "summary": "Mandatory 'Contains: Peanuts' statement is missing immediately following the ingredient list.",
+   "expected": "Separate 'Contains: Peanuts' statement immediately after the ingredient list",
+   "found": "No 'Contains:' statement found; only 'May contain traces of gluten.' is present",
+   "reasoning": "Peanuts are present in the formulation, making a separate 'Contains: Peanuts' statement mandatory. Check D5 confirms peanuts is not declared.",
+   "suggested_fix": "Add a separate statement 'Contains: Peanuts' immediately after the ingredients list and before the 'May contain' statement.",
+   "evidence": [
+    {
+     "source": "artwork",
+     "quote": "May contain traces of gluten.",
+     "note": "Line immediately following ingredients lacks a Contains statement",
+     "verified": true,
+     "match_score": 100.0,
+     "matched_text": "May contain traces of gluten.",
+     "page": 0,
+     "bbox": [
+      0.5030303139049734,
+      0.17367294480425144,
+      0.6061558246746489,
+      0.1936754443983128
+     ]
+    },
+    {
+     "source": "approved_spec",
+     "quote": "\"allergens_contains\":[\"Peanuts\"]",
+     "note": "Approved specification requires peanut allergen declaration",
+     "verified": true,
+     "match_score": 0.0,
+     "matched_text": "",
+     "page": null,
+     "bbox": null
+    }
+   ],
+   "rule_source": "rulebook_snacks_india.pdf - Section A - Mandatory declarations",
+   "rule_quote": "Allergens present in the product must be declared in a separate \"Contains:\" statement immediately after the ingredient list (for example \"Contains: Peanuts\").",
+   "rule_quote_verified": true,
+   "trust_notes": [
+    "Absence confirmed: none of ['Contains:'] found on the artwork.",
+    "Confirmed by deterministic check(s) D5."
+   ],
+   "related_checks": [
+    "D5"
+   ],
+   "origin": "ai",
+   "review_decision": null,
+   "review_note": ""
+  },
+  {
+   "finding_id": "F7",
+   "rule_id": "LBL-02c",
+   "title": "Net quantity - Minimum Numeral Height",
+   "check_type": "numeric_threshold",
+   "severity": "major",
+   "ai_verdict": "FAIL",
+   "verdict": "FAIL",
+   "confidence": 0.98,
+   "summary": "The numeral height of the net quantity declaration is 2.29 mm, below the mandatory 4 mm threshold.",
+   "expected": "Numerals of net quantity declaration must be at least 4 mm high",
+   "found": "Numeral height approximately 2.29 mm",
+   "reasoning": "Deterministic check D25 indicates the numeral height in 'Net Wt. 150 g' is approximately 2.29 mm, which fails the statutory minimum height of 4 mm.",
+   "suggested_fix": "Increase the font size of the net quantity declaration so that the numeral height is at least 4.0 mm.",
+   "evidence": [
+    {
+     "source": "artwork",
+     "quote": "Net Wt. 150 g",
+     "note": "Net quantity declaration on front panel",
+     "verified": true,
+     "match_score": 100.0,
+     "matched_text": "Net Wt. 150 g",
+     "page": 0,
+     "bbox": [
+      0.05454545454545454,
+      0.8420161559777092,
+      0.11495704070204263,
+      0.867733666764531
+     ]
+    }
+   ],
+   "rule_source": "rulebook_snacks_india.pdf - Section A - Mandatory declarations",
+   "rule_quote": "The numerals of the net quantity declaration must be at least 4 mm high.",
+   "rule_quote_verified": true,
+   "trust_notes": [],
+   "related_checks": [
+    "D25"
+   ],
+   "origin": "ai",
+   "review_decision": null,
+   "review_note": ""
+  },
+  {
+   "finding_id": "F8",
+   "rule_id": "LBL-05b",
+   "title": "Nutritional information - Approved Data Match",
+   "check_type": "match_approved_info",
+   "severity": "major",
+   "ai_verdict": "FAIL",
+   "verdict": "FAIL",
+   "confidence": 0.99,
+   "summary": "Declared Sodium value of 610 mg does not match the approved value of 560 mg.",
+   "expected": "Sodium: 560 mg",
+   "found": "Sodium (mg) 610",
+   "reasoning": "Deterministic check D15 confirms that Sodium is declared as 610 mg on the artwork, which fails to match the approved value of 560 mg.",
+   "suggested_fix": "Change the Sodium value in the nutritional information table from 610 to 560.",
+   "evidence": [
+    {
+     "source": "artwork",
+     "quote": "Sodium (mg)",
+     "note": "Nutrient label",
+     "verified": true,
+     "match_score": 100.0,
+     "matched_text": "Sodium (mg)",
+     "page": 0,
+     "bbox": [
+      0.509090909090909,
+      0.4894343862575143,
+      0.5519170358345401,
+      0.5093932996946784
+     ]
+    },
+    {
+     "source": "artwork",
+     "quote": "610",
+     "note": "Declared sodium value",
+     "verified": true,
+     "match_score": 100.0,
+     "matched_text": "610",
+     "page": 0,
+     "bbox": [
+      0.6848485283471665,
+      0.4894343862575143,
+      0.6973305402829872,
+      0.5093932996946784
+     ]
+    },
+    {
+     "source": "approved_spec",
+     "quote": "\"nutrient\":\"Sodium\",\"value\":\"560\",\"unit\":\"mg\"",
+     "note": "Approved sodium value",
+     "verified": false,
+     "match_score": 0.0,
+     "matched_text": "",
+     "page": null,
+     "bbox": null
+    },
+    {
+     "source": "artwork",
+     "quote": "Sodium (mg) 610",
+     "note": "Code check D15: Nutrition: Sodium - expected '560 mg', found '610 mg'",
+     "verified": true,
+     "match_score": 100.0,
+     "matched_text": "Sodium (mg) 610",
+     "page": 0,
+     "bbox": [
+      0.509090909090909,
+      0.4894343862575143,
+      0.6973305402829872,
+      0.5093932996946784
+     ]
+    }
+   ],
+   "rule_source": "rulebook_snacks_india.pdf - Section A - Mandatory declarations",
+   "rule_quote": "All values must match the approved nutrition data.",
+   "rule_quote_verified": true,
+   "trust_notes": [
+    "Confirmed by deterministic check(s) D15.",
+    "Approved Spec quote not found in the source document: '\"nutrient\":\"Sodium\",\"value\":\"560\",\"unit\":\"mg\"'"
+   ],
+   "related_checks": [
+    "D7",
+    "D8",
+    "D9",
+    "D10",
+    "D11",
+    "D12",
+    "D13",
+    "D14",
+    "D15"
+   ],
+   "origin": "ai",
+   "review_decision": null,
+   "review_note": ""
+  },
+  {
+   "finding_id": "F9",
+   "rule_id": "LBL-07b",
+   "title": "FSSAI licence number - Match Approved Licence",
+   "check_type": "match_approved_info",
+   "severity": "major",
+   "ai_verdict": "FAIL",
+   "verdict": "FAIL",
+   "confidence": 0.99,
+   "summary": "The printed FSSAI licence number has 13 digits ('1001234500067') and does not match the approved 14-digit licence '10012345000678'.",
+   "expected": "10012345000678",
+   "found": "Lic. No. 1001234500067",
+   "reasoning": "Deterministic check D16 shows the printed licence number has only 13 digits and is missing the final digit '8' of the approved licence number 10012345000678.",
+   "suggested_fix": "Correct the licence number to 'Lic. No. 10012345000678' to include all 14 digits and match the approved licence.",
+   "evidence": [
+    {
+     "source": "artwork",
+     "quote": "Lic. No. 1001234500067",
+     "note": "Printed 13-digit licence number",
+     "verified": true,
+     "match_score": 100.0,
+     "matched_text": "Lic. No. 1001234500067",
+     "page": 0,
+     "bbox": [
+      0.8060606278099469,
+      0.5976696589178195,
+      0.8875976232755356,
+      0.6176285406905035
+     ]
+    },
+    {
+     "source": "approved_spec",
+     "quote": "10012345000678",
+     "note": "Approved 14-digit licence number",
+     "verified": true,
+     "match_score": 0.0,
+     "matched_text": "",
+     "page": null,
+     "bbox": null
+    }
+   ],
+   "rule_source": "rulebook_snacks_india.pdf - Section A - Mandatory declarations",
+   "rule_quote": "The licence number must match the approved licence number.",
+   "rule_quote_verified": true,
+   "trust_notes": [
+    "Confirmed by deterministic check(s) D16."
+   ],
+   "related_checks": [
+    "D16"
+   ],
+   "origin": "ai",
+   "review_decision": null,
+   "review_note": ""
+  },
+  {
+   "finding_id": "F10",
+   "rule_id": "LBL-04b",
+   "title": "Allergen declaration - Precautionary Labelling",
+   "check_type": "format",
+   "severity": "critical",
+   "ai_verdict": "PASS",
+   "verdict": "NEEDS_REVIEW",
+   "confidence": 0.92,
+   "summary": "Deterministic check D5 (Allergens (Contains)) did not find this on the artwork.",
+   "expected": "'May contain' statement covering cross-contact allergens only",
+   "found": "May contain traces of gluten.",
+   "reasoning": "PASS - Precautionary allergen statement correctly declares cross-contact allergen gluten only. The 'May contain traces of gluten.' statement covers only the approved cross-contact allergen (gluten) and does not incorrectly list formulated ingredients. The missing 'Contains: Peanuts' declaration is evaluated separately under LBL-04a.",
+   "suggested_fix": "None",
+   "evidence": [
+    {
+     "source": "artwork",
+     "quote": "May contain traces of gluten.",
+     "note": "Precautionary allergen statement on artwork",
+     "verified": true,
+     "match_score": 100.0,
+     "matched_text": "May contain traces of gluten.",
+     "page": 0,
+     "bbox": [
+      0.5030303139049734,
+      0.17367294480425144,
+      0.6061558246746489,
+      0.1936754443983128
+     ]
+    },
+    {
+     "source": "approved_spec",
+     "quote": "\"allergens_may_contain\":[\"Gluten\"]",
+     "note": "Approved cross-contact allergen in specification",
+     "verified": false,
+     "match_score": 0.0,
+     "matched_text": "",
+     "page": null,
+     "bbox": null
+    }
+   ],
+   "rule_source": "rulebook_snacks_india.pdf - Section A - Mandatory declarations",
+   "rule_quote": "A \"May contain\" statement covers cross-contact only and does not replace the \"Contains:\" statement.",
+   "rule_quote_verified": true,
+   "trust_notes": [
+    "AI said PASS -> NEEDS_REVIEW: deterministic check D5 (Allergens (Contains)) did not find this on the artwork.",
+    "Approved Spec quote not found in the source document: '\"allergens_may_contain\":[\"Gluten\"]'"
+   ],
+   "related_checks": [
+    "D5",
+    "D6"
+   ],
+   "origin": "ai",
+   "review_decision": null,
+   "review_note": ""
+  },
+  {
+   "finding_id": "F11",
+   "rule_id": "LBL-01a",
+   "title": "Name of the food - Placement",
+   "check_type": "presence",
+   "severity": "critical",
+   "ai_verdict": "PASS",
+   "verdict": "PASS",
+   "confidence": 0.98,
+   "summary": "The product name 'Masala Crunch Peanuts' appears on the front panel.",
+   "expected": "Product name declared on the front panel (PDP)",
+   "found": "Masala Crunch Peanuts",
+   "reasoning": "The name of the food is prominently displayed on the front panel (principal display panel), satisfying the placement requirement.",
+   "suggested_fix": "None",
+   "evidence": [
+    {
+     "source": "artwork",
+     "quote": "Masala Crunch",
+     "note": "First part of product name on front panel",
+     "verified": true,
+     "match_score": 100.0,
+     "matched_text": "Masala Crunch",
+     "page": 0,
+     "bbox": [
+      0.05454545454545454,
+      0.2229676691725514,
+      0.22183268971596556,
+      0.2858326656349957
+     ]
+    },
+    {
+     "source": "artwork",
+     "quote": "Peanuts",
+     "note": "Second part of product name on front panel",
+     "verified": true,
+     "match_score": 100.0,
+     "matched_text": "Roasted & Spiced Peanut Snack",
+     "page": 0,
+     "bbox": [
+      0.05454545454545454,
+      0.3466638367065293,
+      0.22514875733510112,
+      0.3780278525833529
+     ]
+    }
+   ],
+   "rule_source": "rulebook_snacks_india.pdf - Section A - Mandatory declarations",
+   "rule_quote": "The name of the food must appear on the front panel (principal display panel) and must match the approved product name exactly.",
+   "rule_quote_verified": true,
+   "trust_notes": [],
+   "related_checks": [
+    "D1",
+    "D24"
+   ],
+   "origin": "ai",
+   "review_decision": null,
+   "review_note": ""
+  },
+  {
+   "finding_id": "F12",
+   "rule_id": "LBL-02a",
+   "title": "Net quantity - Placement and Units",
+   "check_type": "format",
+   "severity": "critical",
+   "ai_verdict": "PASS",
+   "verdict": "PASS",
+   "confidence": 0.98,
+   "summary": "Net quantity is declared on the front panel in metric units ('Net Wt. 150 g').",
+   "expected": "Net quantity declared on the front panel in metric units (g or kg)",
+   "found": "Net Wt. 150 g",
+   "reasoning": "The net quantity is printed on the front panel using grams ('g'), satisfying the placement and unit requirements.",
+   "suggested_fix": "None",
+   "evidence": [
+    {
+     "source": "artwork",
+     "quote": "Net Wt. 150 g",
+     "note": "Net quantity on front panel using grams",
+     "verified": true,
+     "match_score": 100.0,
+     "matched_text": "Net Wt. 150 g",
+     "page": 0,
+     "bbox": [
+      0.05454545454545454,
+      0.8420161559777092,
+      0.11495704070204263,
+      0.867733666764531
+     ]
+    }
+   ],
+   "rule_source": "rulebook_snacks_india.pdf - Section A - Mandatory declarations",
+   "rule_quote": "The net quantity must be declared on the front panel in metric units (g or kg) and must match the approved net quantity.",
+   "rule_quote_verified": true,
+   "trust_notes": [
+    "Related value check D3 (Net quantity: expected '200 g', found '150 g') - reported under the value-matching rule; does not affect this format rule."
+   ],
+   "related_checks": [
+    "D3",
+    "D25"
+   ],
+   "origin": "ai",
+   "review_decision": null,
+   "review_note": ""
+  },
+  {
+   "finding_id": "F13",
+   "rule_id": "LBL-05a",
+   "title": "Nutritional information - Required Nutrients and Basis",
+   "check_type": "presence",
+   "severity": "critical",
+   "ai_verdict": "PASS",
+   "verdict": "PASS",
+   "confidence": 0.99,
+   "summary": "Nutrition table provides all required nutrients and basis per 100 g.",
+   "expected": "Per 100 g declaration including Energy (kcal), Protein, Carbohydrate, Total Sugars, Added Sugars, Total Fat, Saturated Fat, Trans Fat and Sodium (mg)",
+   "found": "Per 100 g basis with Energy (kcal), Protein (g), Carbohydrate (g), Total Sugars (g), Added Sugars (g), Total Fat (g), Saturated Fat (g), Trans Fat (g), and Sodium (mg)",
+   "reasoning": "The nutritional information table includes all nine mandatory nutrients along with the required per 100 g reference basis.",
+   "suggested_fix": "None",
+   "evidence": [
+    {
+     "source": "artwork",
+     "quote": "Per 100 g",
+     "note": "Per 100 g basis header",
+     "verified": true,
+     "match_score": 100.0,
+     "matched_text": "Per 100 g",
+     "page": 0,
+     "bbox": [
+      0.6848485283471665,
+      0.2459775819280426,
+      0.7181262594907326,
+      0.26598008152210395
+     ]
+    },
+    {
+     "source": "artwork",
+     "quote": "Energy (kcal)",
+     "note": "Energy nutrient",
+     "verified": true,
+     "match_score": 100.0,
+     "matched_text": "Energy (kcal)",
+     "page": 0,
+     "bbox": [
+      0.509090909090909,
+      0.2729637776079436,
+      0.5531667964558579,
+      0.2929226910451077
+     ]
+    },
+    {
+     "source": "artwork",
+     "quote": "Protein (g)",
+     "note": "Protein nutrient",
+     "verified": true,
+     "match_score": 100.0,
+     "matched_text": "Protein (g)",
+     "page": 0,
+     "bbox": [
+      0.509090909090909,
+      0.3000225957730199,
+      0.5440223187385469,
+      0.319981509210184
+     ]
+    },
+    {
+     "source": "artwork",
+     "quote": "Carbohydrate (g)",
+     "note": "Carbohydrate nutrient",
+     "verified": true,
+     "match_score": 100.0,
+     "matched_text": "Carbohydrate (g)",
+     "page": 0,
+     "bbox": [
+      0.509090909090909,
+      0.32708147726705644,
+      0.5656486778956338,
+      0.34704039070422055
+     ]
+    },
+    {
+     "source": "artwork",
+     "quote": "Total Sugars (g)",
+     "note": "Total Sugars nutrient",
+     "verified": true,
+     "match_score": 100.0,
+     "matched_text": "Total Sugars (g)",
+     "page": 0,
+     "bbox": [
+      0.5212121320867916,
+      0.35414029543213277,
+      0.5748590234915717,
+      0.3740992088692969
+     ]
+    },
+    {
+     "source": "artwork",
+     "quote": "Added Sugars (g)",
+     "note": "Added Sugars nutrient",
+     "verified": true,
+     "match_score": 100.0,
+     "matched_text": "Added Sugars (g)",
+     "page": 0,
+     "bbox": [
+      0.5212121320867916,
+      0.3811991135972091,
+      0.5798578049847531,
+      0.4011580270343732
+     ]
+    },
+    {
+     "source": "artwork",
+     "quote": "Total Fat (g)",
+     "note": "Total Fat nutrient",
+     "verified": true,
+     "match_score": 100.0,
+     "matched_text": "Total Fat (g)",
+     "page": 0,
+     "bbox": [
+      0.509090909090909,
+      0.40825793176228536,
+      0.5498443019065146,
+      0.42821684519944947
+     ]
+    },
+    {
+     "source": "artwork",
+     "quote": "Saturated Fat (g)",
+     "note": "Saturated Fat nutrient",
+     "verified": true,
+     "match_score": 100.0,
+     "matched_text": "Saturated Fat (g)",
+     "page": 0,
+     "bbox": [
+      0.5212121320867916,
+      0.4353167499273617,
+      0.5777774370381051,
+      0.4552756633645258
+     ]
+    },
+    {
+     "source": "artwork",
+     "quote": "Trans Fat (g)",
+     "note": "Trans Fat nutrient",
+     "verified": true,
+     "match_score": 100.0,
+     "matched_text": "Trans Fat (g)",
+     "page": 0,
+     "bbox": [
+      0.5212121320867916,
+      0.462375568092438,
+      0.564457379502399,
+      0.4823344815296021
+     ]
+    },
+    {
+     "source": "artwork",
+     "quote": "Sodium (mg)",
+     "note": "Sodium nutrient",
+     "verified": true,
+     "match_score": 100.0,
+     "matched_text": "Sodium (mg)",
+     "page": 0,
+     "bbox": [
+      0.509090909090909,
+      0.4894343862575143,
+      0.5519170358345401,
+      0.5093932996946784
+     ]
+    },
+    {
+     "source": "artwork",
+     "quote": "Sodium (mg) 610",
+     "note": "Code check D15: Nutrition: Sodium - expected '560 mg', found '610 mg'",
+     "verified": true,
+     "match_score": 100.0,
+     "matched_text": "Sodium (mg) 610",
+     "page": 0,
+     "bbox": [
+      0.509090909090909,
+      0.4894343862575143,
+      0.6973305402829872,
+      0.5093932996946784
+     ]
+    }
+   ],
+   "rule_source": "rulebook_snacks_india.pdf - Section A - Mandatory declarations",
+   "rule_quote": "Nutrition information must be given per 100 g and must include Energy (kcal), Protein, Carbohydrate, Total Sugars, Added Sugars, Total Fat, Saturated Fat, Trans Fat and Sodium (mg).",
+   "rule_quote_verified": true,
+   "trust_notes": [
+    "Related value check D15 (Nutrition: Sodium: expected '560 mg', found '610 mg') - reported under the value-matching rule; does not affect this presence rule."
+   ],
+   "related_checks": [
+    "D7",
+    "D8",
+    "D9",
+    "D10",
+    "D11",
+    "D12",
+    "D13",
+    "D14",
+    "D15"
+   ],
+   "origin": "ai",
+   "review_decision": null,
+   "review_note": ""
+  },
+  {
+   "finding_id": "F14",
+   "rule_id": "LBL-06",
+   "title": "Veg / Non-veg symbol",
+   "check_type": "visual",
+   "severity": "critical",
+   "ai_verdict": "PASS",
+   "verdict": "PASS",
+   "confidence": 0.98,
+   "summary": "The green vegetarian symbol is displayed on the front panel close to the product name.",
+   "expected": "Green vegetarian symbol (green circle inside a green square) on the front panel close to the product name",
+   "found": "Green vegetarian symbol located on the top right of the front panel",
+   "reasoning": "The artwork displays the required vegetarian symbol with a green circle within a green square on the front panel near the food name.",
+   "suggested_fix": "None",
+   "evidence": [
+    {
+     "source": "artwork",
+     "quote": "Vegetarian green dot and square symbol",
+     "note": "Vegetarian icon identified on upper right PDP close to brand and product name",
+     "verified": false,
+     "match_score": 48.5,
+     "matched_text": "",
+     "page": null,
+     "bbox": null
+    }
+   ],
+   "rule_source": "rulebook_snacks_india.pdf - Section A - Mandatory declarations",
+   "rule_quote": "Vegetarian products must carry the green vegetarian symbol (a green square outline containing a filled green circle) on the front panel, close to the name of the food.",
+   "rule_quote_verified": true,
+   "trust_notes": [
+    "Quoted text not found on artwork: 'Vegetarian green dot and square symbol'"
+   ],
+   "related_checks": [],
+   "origin": "ai",
+   "review_decision": null,
+   "review_note": ""
+  },
+  {
+   "finding_id": "F15",
+   "rule_id": "LBL-07a",
+   "title": "FSSAI logo and licence - Presence",
+   "check_type": "presence",
+   "severity": "critical",
+   "ai_verdict": "PASS",
+   "verdict": "PASS",
+   "confidence": 0.95,
+   "summary": "The FSSAI logo and licence number declaration are displayed on the back panel.",
+   "expected": "FSSAI logo and licence number displayed",
+   "found": "fssai logo and 'Lic. No. 1001234500067' present on back panel",
+   "reasoning": "Both the FSSAI logo and a licence number declaration are displayed on the back panel. The digit count and specification match are assessed under LBL-07b.",
+   "suggested_fix": "None",
+   "evidence": [
+    {
+     "source": "artwork",
+     "quote": "fssai",
+     "note": "FSSAI logo on back panel",
+     "verified": true,
+     "match_score": 100.0,
+     "matched_text": "fssai",
+     "page": 0,
+     "bbox": [
+      0.8151515695248671,
+      0.5490025562101518,
+      0.8395146591100757,
+      0.5775775963417139
+     ]
+    },
+    {
+     "source": "artwork",
+     "quote": "Lic. No. 1001234500067",
+     "note": "Licence number label and digits",
+     "verified": true,
+     "match_score": 100.0,
+     "matched_text": "Lic. No. 1001234500067",
+     "page": 0,
+     "bbox": [
+      0.8060606278099469,
+      0.5976696589178195,
+      0.8875976232755356,
+      0.6176285406905035
+     ]
+    }
+   ],
+   "rule_source": "rulebook_snacks_india.pdf - Section A - Mandatory declarations",
+   "rule_quote": "The FSSAI logo and the 14-digit FSSAI licence number of the brand owner must be displayed.",
+   "rule_quote_verified": true,
+   "trust_notes": [
+    "Related value check D16 (Licence number: expected '10012345000678', found '1001234500067') - reported under the value-matching rule; does not affect this presence rule."
+   ],
+   "related_checks": [
+    "D16"
+   ],
+   "origin": "ai",
+   "review_decision": null,
+   "review_note": ""
+  },
+  {
+   "finding_id": "F16",
+   "rule_id": "LBL-10a",
+   "title": "Date marking - Best Before or Use By",
+   "check_type": "presence",
+   "severity": "critical",
+   "ai_verdict": "PASS",
+   "verdict": "PASS",
+   "confidence": 0.99,
+   "summary": "A 'Best Before' statement is clearly declared on the pack.",
+   "expected": "'Best Before' or 'Use By' statement",
+   "found": "Best Before 6 months from manufacture.",
+   "reasoning": "The artwork contains the required 'Best Before 6 months from manufacture.' statement, satisfying check D21.",
+   "suggested_fix": "None",
+   "evidence": [
+    {
+     "source": "artwork",
+     "quote": "Best Before 6 months from manufacture.",
+     "note": "Date marking statement on back panel",
+     "verified": true,
+     "match_score": 100.0,
+     "matched_text": "Best Before 6 months from manufacture.",
+     "page": 0,
+     "bbox": [
+      0.7636363636363637,
+      0.31578197586862633,
+      0.9087500534218184,
+      0.33578449129492777
+     ]
+    }
+   ],
+   "rule_source": "rulebook_snacks_india.pdf - Section A - Mandatory declarations",
+   "rule_quote": "The pack must declare a \"Best Before\" or \"Use By\" statement, and provide space for the batch number and the date of manufacture.",
+   "rule_quote_verified": true,
+   "trust_notes": [],
+   "related_checks": [
+    "D21"
+   ],
+   "origin": "ai",
+   "review_decision": null,
+   "review_note": ""
+  },
+  {
+   "finding_id": "F17",
+   "rule_id": "DSN-02",
+   "title": "Legibility - Back panel x-height",
+   "check_type": "numeric_threshold",
+   "severity": "major",
+   "ai_verdict": "PASS",
+   "verdict": "PASS",
+   "confidence": 0.96,
+   "summary": "Mandatory text on the back panel exceeds the minimum 1.0 mm x-height requirement.",
+   "expected": "Back panel mandatory text x-height of at least 1.0 mm",
+   "found": "All mandatory text lines have cap heights of 1.78 mm or greater (x-height >= 1.10 mm)",
+   "reasoning": "Check D26 shows the smallest text on the PDF layer has an x-height of approximately 1.10 mm, and all back panel text lines have cap heights between 1.78 mm and 2.54 mm, comfortably meeting the 1.0 mm x-height minimum.",
+   "suggested_fix": "None",
+   "evidence": [
+    {
+     "source": "artwork",
+     "quote": "INGREDIENTS:",
+     "note": "Cap height 2.03 mm",
+     "verified": true,
+     "match_score": 100.0,
+     "matched_text": "INGREDIENTS:",
+     "page": 0,
+     "bbox": [
+      0.5030303139049734,
+      0.08963529580070731,
+      0.5643238168005176,
+      0.11249530099114889
+     ]
+    },
+    {
+     "source": "artwork",
+     "quote": "May contain traces of gluten.",
+     "note": "Cap height 1.78 mm",
+     "verified": true,
+     "match_score": 100.0,
+     "matched_text": "May contain traces of gluten.",
+     "page": 0,
+     "bbox": [
+      0.5030303139049734,
+      0.17367294480425144,
+      0.6061558246746489,
+      0.1936754443983128
+     ]
+    }
+   ],
+   "rule_source": "rulebook_snacks_india.pdf - Section C - Design standards",
+   "rule_quote": "Mandatory information on the back panel must not be smaller than 1.0 mm x-height.",
+   "rule_quote_verified": true,
+   "trust_notes": [],
+   "related_checks": [
+    "D26"
+   ],
+   "origin": "ai",
+   "review_decision": null,
+   "review_note": ""
+  },
+  {
+   "finding_id": "F18",
+   "rule_id": "LBL-01b",
+   "title": "Name of the food - Approved Name Match",
+   "check_type": "match_approved_info",
+   "severity": "major",
+   "ai_verdict": "PASS",
+   "verdict": "PASS",
+   "confidence": 0.99,
+   "summary": "The food name matches the approved product name 'Masala Crunch Peanuts' exactly.",
+   "expected": "Masala Crunch Peanuts",
+   "found": "Masala Crunch Peanuts",
+   "reasoning": "The food name on the artwork matches the approved product name from the specification exactly (100% similarity in check D1).",
+   "suggested_fix": "None",
+   "evidence": [
+    {
+     "source": "artwork",
+     "quote": "Masala Crunch",
+     "note": "Artwork product name line 1",
+     "verified": true,
+     "match_score": 100.0,
+     "matched_text": "Masala Crunch",
+     "page": 0,
+     "bbox": [
+      0.05454545454545454,
+      0.2229676691725514,
+      0.22183268971596556,
+      0.2858326656349957
+     ]
+    },
+    {
+     "source": "artwork",
+     "quote": "Peanuts",
+     "note": "Artwork product name line 2",
+     "verified": true,
+     "match_score": 100.0,
+     "matched_text": "Roasted & Spiced Peanut Snack",
+     "page": 0,
+     "bbox": [
+      0.05454545454545454,
+      0.3466638367065293,
+      0.22514875733510112,
+      0.3780278525833529
+     ]
+    },
+    {
+     "source": "approved_spec",
+     "quote": "Masala Crunch Peanuts",
+     "note": "Approved product name",
+     "verified": true,
+     "match_score": 0.0,
+     "matched_text": "",
+     "page": null,
+     "bbox": null
+    }
+   ],
+   "rule_source": "rulebook_snacks_india.pdf - Section A - Mandatory declarations",
+   "rule_quote": "The name of the food must appear on the front panel (principal display panel) and must match the approved product name exactly.",
+   "rule_quote_verified": true,
+   "trust_notes": [],
+   "related_checks": [
+    "D1"
+   ],
+   "origin": "ai",
+   "review_decision": null,
+   "review_note": ""
+  },
+  {
+   "finding_id": "F19",
+   "rule_id": "LBL-03a",
+   "title": "List of ingredients - Heading and Order",
+   "check_type": "format",
+   "severity": "major",
+   "ai_verdict": "PASS",
+   "verdict": "PASS",
+   "confidence": 0.98,
+   "summary": "Ingredients are listed under the heading 'INGREDIENTS:' in descending order of weight.",
+   "expected": "Ingredients listed under the heading 'Ingredients' in descending order of weight",
+   "found": "INGREDIENTS: Peanuts (70%), Gram Flour (Besan)...",
+   "reasoning": "The ingredients list is headed by 'INGREDIENTS:' and orders ingredients in descending sequence of incoming weight.",
+   "suggested_fix": "None",
+   "evidence": [
+    {
+     "source": "artwork",
+     "quote": "INGREDIENTS:",
+     "note": "Mandatory ingredients heading",
+     "verified": true,
+     "match_score": 100.0,
+     "matched_text": "INGREDIENTS:",
+     "page": 0,
+     "bbox": [
+      0.5030303139049734,
+      0.08963529580070731,
+      0.5643238168005176,
+      0.11249530099114889
+     ]
+    },
+    {
+     "source": "artwork",
+     "quote": "Peanuts (70%), Gram Flour (Besan), Edible Vegetable Oil (Palmolein), Spices & Condiments (Red Chilli, Turmeric, Coriander, Cumin),",
+     "note": "Ingredients in descending weight order",
+     "verified": true,
+     "match_score": 100.0,
+     "matched_text": "Peanuts (70%), Gram Flour (Besan), Edible Vegetable Oil (Palmolein), Spices & Condiments (Red Chilli, Turmeric, Coriander, Cumin),",
+     "page": 0,
+     "bbox": [
+      0.5030303139049734,
+      0.1176470802436189,
+      0.947987799924769,
+      0.1376060095130231
+     ]
+    },
+    {
+     "source": "artwork",
+     "quote": "Iodised Salt, Curry Leaves (1%), Black Salt, Acidity Regulator (INS 330).",
+     "note": "Remainder of ingredients list",
+     "verified": true,
+     "match_score": 100.0,
+     "matched_text": "Iodised Salt, Curry Leaves (1%), Black Salt, Acidity Regulator (INS 330).",
+     "page": 0,
+     "bbox": [
+      0.5030303139049734,
+      0.13910286864991017,
+      0.7429933900490894,
+      0.15906179791931435
+     ]
+    },
+    {
+     "source": "artwork",
+     "quote": "Peanuts (70%), Gram Flour (Besan), Edible Vegetable Oil (Palmolein), Spices & Condiments (Red Chilli, Turmeric, Coriander, Cumin), Iodised Salt, Curry Leaves (1%), Black Salt, Acidity Regulator (INS 330).",
+     "note": "Code check D4: Ingredients - expected 'Peanuts (72%), Gram Flour (Besan), Edible Vegetable Oil (Palmolein), Spices & Condiments (Red Chilli, Turmeric, Coriander, Cumin), Iodised Salt, Curry Leaves (1%), Black Salt, Acidity Regulator (INS 330)', found 'Peanuts (70%), Gram Flour (Besan), Edible Vegetable Oil (Palmolein), Spices & Condiments (Red Chilli, Turmeric, Coriander, Cumin), Iodised Salt, Curry Leaves (1%), Black Salt, Acidity Regulator (INS 330).'",
+     "verified": true,
+     "match_score": 100.0,
+     "matched_text": "Peanuts (70%), Gram Flour (Besan), Edible Vegetable Oil (Palmolein), Spices & Condiments (Red Chilli, Turmeric, Coriander, Cumin), Iodised Salt, Curry Leaves (1%), Black Salt, Acidity Regulator (INS 330).",
+     "page": 0,
+     "bbox": [
+      0.5030303139049734,
+      0.1176470802436189,
+      0.947987799924769,
+      0.15906179791931435
+     ]
+    }
+   ],
+   "rule_source": "rulebook_snacks_india.pdf - Section A - Mandatory declarations",
+   "rule_quote": "The ingredients must be listed under the heading \"Ingredients\" in descending order of weight.",
+   "rule_quote_verified": true,
+   "trust_notes": [
+    "Related value check D4 (Ingredients: expected 'Peanuts (72%), Gram Flour (Besan), Edible Vegetable Oil (Palmolein), Spices & Condiments (Red Chilli, Turmeric, Coriander, Cumin), Iodised Salt, Curry Leaves (1%), Black Salt, Acidity Regulator (INS 330)', found 'Peanuts (70%), Gram Flour (Besan), Edible Vegetable Oil (Palmolein), Spices & Condiments (Red Chilli, Turmeric, Coriander, Cumin), Iodised Salt, Curry Leaves (1%), Black Salt, Acidity Regulator (INS 330).') - reported under the value-matching rule; does not affect this format rule."
+   ],
+   "related_checks": [
+    "D4"
+   ],
+   "origin": "ai",
+   "review_decision": null,
+   "review_note": ""
+  },
+  {
+   "finding_id": "F20",
+   "rule_id": "LBL-08",
+   "title": "Manufacturer address",
+   "check_type": "presence",
+   "severity": "major",
+   "ai_verdict": "PASS",
+   "verdict": "PASS",
+   "confidence": 0.99,
+   "summary": "Complete manufacturer name and address including PIN code are declared.",
+   "expected": "Name and complete address of the manufacturer including PIN code",
+   "found": "Manufactured & Marketed by: Crunchwell Foods Pvt. Ltd., Plot 42, MIDC Industrial Area, Chakan, Pune, Maharashtra - 410501, India",
+   "reasoning": "The complete name and address of the manufacturer including the PIN code 410501 are clearly declared, matching check D18.",
+   "suggested_fix": "None",
+   "evidence": [
+    {
+     "source": "artwork",
+     "quote": "Manufactured & Marketed by:",
+     "note": "Heading for manufacturer declaration",
+     "verified": true,
+     "match_score": 100.0,
+     "matched_text": "Manufactured & Marketed by:",
+     "page": 0,
+     "bbox": [
+      0.5030303139049734,
+      0.5389188125262657,
+      0.6078096662987765,
+      0.5589212646236068
+     ]
+    },
+    {
+     "source": "artwork",
+     "quote": "Crunchwell Foods Pvt. Ltd., Plot 42, MIDC Industrial Area, Chakan, Pune,",
+     "note": "Manufacturer name and street address",
+     "verified": true,
+     "match_score": 100.0,
+     "matched_text": "Crunchwell Foods Pvt. Ltd., Plot 42, MIDC Industrial Area, Chakan, Pune,",
+     "page": 0,
+     "bbox": [
+      0.5030303139049734,
+      0.5634290833436981,
+      0.7471688719954509,
+      0.5833879651163821
+     ]
+    },
+    {
+     "source": "artwork",
+     "quote": "Maharashtra - 410501, India",
+     "note": "State, PIN code, and country",
+     "verified": true,
+     "match_score": 100.0,
+     "matched_text": "Maharashtra - 410501, India",
+     "page": 0,
+     "bbox": [
+      0.5030303139049734,
+      0.5848849350789497,
+      0.5970340858931492,
+      0.6048438168516337
+     ]
+    }
+   ],
+   "rule_source": "rulebook_snacks_india.pdf - Section A - Mandatory declarations",
+   "rule_quote": "The name and complete address of the manufacturer, including the PIN code, must be declared.",
+   "rule_quote_verified": true,
+   "trust_notes": [],
+   "related_checks": [
+    "D18"
+   ],
+   "origin": "ai",
+   "review_decision": null,
+   "review_note": ""
+  },
+  {
+   "finding_id": "F21",
+   "rule_id": "LBL-09",
+   "title": "Maximum retail price",
+   "check_type": "format",
+   "severity": "major",
+   "ai_verdict": "PASS",
+   "verdict": "PASS",
+   "confidence": 0.99,
+   "summary": "MRP is declared in the required format 'MRP Rs. 60.00 (Incl. of all taxes)'.",
+   "expected": "MRP declared as 'MRP Rs.' followed by amount and 'Incl. of all taxes'",
+   "found": "MRP Rs. 60.00 (Incl. of all taxes)",
+   "reasoning": "The MRP format exactly matches the regulatory requirement and check D17 shows 100% similarity with approved data.",
+   "suggested_fix": "None",
+   "evidence": [
+    {
+     "source": "artwork",
+     "quote": "MRP Rs. 60.00 (Incl. of all taxes)",
+     "note": "MRP declaration on back panel",
+     "verified": true,
+     "match_score": 100.0,
+     "matched_text": "MRP Rs. 60.00 (Incl. of all taxes)",
+     "page": 0,
+     "bbox": [
+      0.7636363636363637,
+      0.42754672980648445,
+      0.9101487752783073,
+      0.4532642405933062
+     ]
+    }
+   ],
+   "rule_source": "rulebook_snacks_india.pdf - Section A - Mandatory declarations",
+   "rule_quote": "The MRP must be declared as \"MRP Rs.\" (or the Rupee symbol) followed by the amount and the words \"Incl. of all taxes\".",
+   "rule_quote_verified": true,
+   "trust_notes": [],
+   "related_checks": [
+    "D17"
+   ],
+   "origin": "ai",
+   "review_decision": null,
+   "review_note": ""
+  },
+  {
+   "finding_id": "F22",
+   "rule_id": "LBL-10b",
+   "title": "Date marking - Batch Number and Manufacture Date",
+   "check_type": "presence",
+   "severity": "major",
+   "ai_verdict": "PASS",
+   "verdict": "PASS",
+   "confidence": 0.99,
+   "summary": "Space and reference for batch number and date of manufacture are provided.",
+   "expected": "Space/indication for batch number and date of manufacture",
+   "found": "Batch No.: / Mfg. Date: See crimp",
+   "reasoning": "The artwork clearly provides for batch number and date of manufacture by directing to the crimp ('Batch No.: / Mfg. Date: See crimp').",
+   "suggested_fix": "None",
+   "evidence": [
+    {
+     "source": "artwork",
+     "quote": "Batch No.: / Mfg. Date: See crimp",
+     "note": "Batch and manufacture date reference",
+     "verified": true,
+     "match_score": 100.0,
+     "matched_text": "Batch No.: / Mfg. Date: See crimp",
+     "page": 0,
+     "bbox": [
+      0.7636363636363637,
+      0.3628408712950342,
+      0.8750981901177303,
+      0.3827997847321983
+     ]
+    }
+   ],
+   "rule_source": "rulebook_snacks_india.pdf - Section A - Mandatory declarations",
+   "rule_quote": "The pack must declare a \"Best Before\" or \"Use By\" statement, and provide space for the batch number and the date of manufacture.",
+   "rule_quote_verified": true,
+   "trust_notes": [],
+   "related_checks": [
+    "D21"
+   ],
+   "origin": "ai",
+   "review_decision": null,
+   "review_note": ""
+  },
+  {
+   "finding_id": "F23",
+   "rule_id": "LBL-11",
+   "title": "Consumer care",
+   "check_type": "presence",
+   "severity": "major",
+   "ai_verdict": "PASS",
+   "verdict": "PASS",
+   "confidence": 0.99,
+   "summary": "Customer care telephone number and email address are printed on the pack.",
+   "expected": "Consumer care telephone number and email address",
+   "found": "Customer Care: 1800-123-4567 | care@crunchwell.in",
+   "reasoning": "Both a telephone number (1800-123-4567) and an email address (care@crunchwell.in) are declared, satisfying check D19.",
+   "suggested_fix": "None",
+   "evidence": [
+    {
+     "source": "artwork",
+     "quote": "Customer Care: 1800-123-4567 | care@crunchwell.in",
+     "note": "Customer care contact details",
+     "verified": true,
+     "match_score": 100.0,
+     "matched_text": "Customer Care: 1800-123-4567 | care@crunchwell.in",
+     "page": 0,
+     "bbox": [
+      0.5030303139049734,
+      0.6075466968754251,
+      0.6801723330767998,
+      0.6275055786481091
+     ]
+    }
+   ],
+   "rule_source": "rulebook_snacks_india.pdf - Section A - Mandatory declarations",
+   "rule_quote": "A consumer care telephone number and e-mail address must be printed.",
+   "rule_quote_verified": true,
+   "trust_notes": [],
+   "related_checks": [
+    "D19"
+   ],
+   "origin": "ai",
+   "review_decision": null,
+   "review_note": ""
+  },
+  {
+   "finding_id": "F24",
+   "rule_id": "LBL-12",
+   "title": "Storage instructions",
+   "check_type": "presence",
+   "severity": "major",
+   "ai_verdict": "PASS",
+   "verdict": "PASS",
+   "confidence": 0.99,
+   "summary": "Mandatory storage instructions are printed on the back panel.",
+   "expected": "Storage instructions printed on pack",
+   "found": "STORAGE: Store in a cool, dry place. Once opened, transfer contents to an airtight container.",
+   "reasoning": "Storage instructions match the approved specification word-for-word as confirmed by check D20.",
+   "suggested_fix": "None",
+   "evidence": [
+    {
+     "source": "artwork",
+     "quote": "STORAGE:",
+     "note": "Storage heading",
+     "verified": true,
+     "match_score": 100.0,
+     "matched_text": "STORAGE:",
+     "page": 0,
+     "bbox": [
+      0.7636363636363637,
+      0.21185992786578112,
+      0.8031324923080737,
+      0.23186242745984248
+     ]
+    },
+    {
+     "source": "artwork",
+     "quote": "Store in a cool, dry place. Once opened, transfer",
+     "note": "Storage text line 1",
+     "verified": true,
+     "match_score": 100.0,
+     "matched_text": "Store in a cool, dry place. Once opened, transfer",
+     "page": 0,
+     "bbox": [
+      0.7636363636363637,
+      0.23637026201217384,
+      0.9246071498130481,
+      0.25632919128157805
+     ]
+    },
+    {
+     "source": "artwork",
+     "quote": "contents to an airtight container.",
+     "note": "Storage text line 2",
+     "verified": true,
+     "match_score": 100.0,
+     "matched_text": "contents to an airtight container.",
+     "page": 0,
+     "bbox": [
+      0.7636363636363637,
+      0.25782611374742537,
+      0.870122114936349,
+      0.27778504301682955
+     ]
+    }
+   ],
+   "rule_source": "rulebook_snacks_india.pdf - Section A - Mandatory declarations",
+   "rule_quote": "Storage instructions must be printed for products whose shelf life depends on storage conditions.",
+   "rule_quote_verified": true,
+   "trust_notes": [],
+   "related_checks": [
+    "D20"
+   ],
+   "origin": "ai",
+   "review_decision": null,
+   "review_note": ""
+  },
+  {
+   "finding_id": "F25",
+   "rule_id": "DSN-01",
+   "title": "Brand logo",
+   "check_type": "presence",
+   "severity": "minor",
+   "ai_verdict": "PASS",
+   "verdict": "PASS",
+   "confidence": 0.99,
+   "summary": "The Crunchwell brand name appears clearly on the front panel.",
+   "expected": "Crunchwell brand name on the front panel",
+   "found": "CRUNCHWELL",
+   "reasoning": "The Crunchwell brand name is prominently displayed at the top of the front panel, satisfying check D2.",
+   "suggested_fix": "None",
+   "evidence": [
+    {
+     "source": "artwork",
+     "quote": "CRUNCHWELL",
+     "note": "Brand name displayed prominently on front panel",
+     "verified": true,
+     "match_score": 100.0,
+     "matched_text": "Customer Care: 1800-123-4567 | care@crunchwell.in",
+     "page": 0,
+     "bbox": [
+      0.5030303139049734,
+      0.6075466968754251,
+      0.6801723330767998,
+      0.6275055786481091
+     ]
+    }
+   ],
+   "rule_source": "rulebook_snacks_india.pdf - Section C - Design standards",
+   "rule_quote": "The Crunchwell brand name must appear on the front panel.",
+   "rule_quote_verified": true,
+   "trust_notes": [],
+   "related_checks": [
+    "D2"
+   ],
+   "origin": "ai",
+   "review_decision": null,
+   "review_note": ""
+  },
+  {
+   "finding_id": "F26",
+   "rule_id": "CLM-02a",
+   "title": "Protein claims - Source of protein",
+   "check_type": "numeric_threshold",
+   "severity": "critical",
+   "ai_verdict": "NOT_APPLICABLE",
+   "verdict": "NOT_APPLICABLE",
+   "confidence": 0.98,
+   "summary": "The artwork does not make a 'Source of protein' claim.",
+   "expected": "Rule applies when a 'Source of protein' claim is made",
+   "found": "Artwork carries 'HIGH PROTEIN', not 'Source of protein'",
+   "reasoning": "Rule condition states it applies when a 'Source of protein' claim is made. The artwork carries a 'HIGH PROTEIN' claim instead, so this rule is not applicable.",
+   "suggested_fix": "None",
+   "evidence": [
+    {
+     "source": "artwork",
+     "quote": "HIGH PROTEIN",
+     "note": "Front panel claim",
+     "verified": true,
+     "match_score": 100.0,
+     "matched_text": "HIGH PROTEIN",
+     "page": 0,
+     "bbox": [
+      0.09443395219995127,
+      0.444117638863311,
+      0.20253575020708092,
+      0.48412263805143374
+     ]
+    }
+   ],
+   "rule_source": "rulebook_snacks_india.pdf - Section B - Claims (brand and regulatory)",
+   "rule_quote": "\"Source of protein\" requires at least 10 g protein per 100 g.",
+   "rule_quote_verified": true,
+   "trust_notes": [],
+   "related_checks": [
+    "D8",
+    "D22"
+   ],
+   "origin": "ai",
+   "review_decision": null,
+   "review_note": ""
+  }
+ ],
+ "documents": {
+  "rulebook_snacks_india.pdf": "Crunchwell Foods - Packaging Labelling Rulebook\nCategory: Packaged Snack Foods | Market: India | Version 2.1\nPurpose: This rulebook describes how Crunchwell interprets the Food Safety and Standards (Labelling and\nDisplay) Regulations, 2020 (FSSAI) and our own brand standards. Every artwork must comply with every\napplicable rule below before it is released to print. Where the regulation and this rulebook differ, the stricter\nrequirement applies. (Illustrative document prepared for the Esko AIForge hackathon - not legal advice.)\nSection A - Mandatory declarations\nLBL-01 Name of the food: The name of the food must appear on the front panel (principal display panel) and\nmust match the approved product name exactly.\nLBL-02 Net quantity: The net quantity must be declared on the front panel in metric units (g or kg) and must\nmatch the approved net quantity. The numerals of the net quantity declaration must be at least 4 mm high.\nLBL-03 List of ingredients: The ingredients must be listed under the heading \"Ingredients\" in descending\norder of weight. The list must match the approved formulation, including the declared percentage of\ncharacterising ingredients (QUID).\nLBL-04 Allergen declaration: Allergens present in the product must be declared in a separate \"Contains:\"\nstatement immediately after the ingredient list (for example \"Contains: Peanuts\"). A \"May contain\" statement\ncovers cross-contact only and does not replace the \"Contains:\" statement.\nLBL-05 Nutritional information: Nutrition information must be given per 100 g and must include Energy (kcal),\nProtein, Carbohydrate, Total Sugars, Added Sugars, Total Fat, Saturated Fat, Trans Fat and Sodium (mg).\nAll values must match the approved nutrition data.\nLBL-06 Veg / Non-veg symbol: Vegetarian products must carry the green vegetarian symbol (a green square\noutline containing a filled green circle) on the front panel, close to the name of the food.\nLBL-07 FSSAI logo and licence: The FSSAI logo and the 14-digit FSSAI licence number of the brand owner\nmust be displayed. The licence number must match the approved licence number.\nLBL-08 Manufacturer address: The name and complete address of the manufacturer, including the PIN code,\nmust be declared.\nLBL-09 Maximum retail price: The MRP must be declared as \"MRP Rs.\" (or the Rupee symbol) followed by\nthe amount and the words \"Incl. of all taxes\".\nLBL-10 Date marking: The pack must declare a \"Best Before\" or \"Use By\" statement, and provide space for\nthe batch number and the date of manufacture.\nLBL-11 Consumer care: A consumer care telephone number and e-mail address must be printed.\nLBL-12 Storage instructions: Storage instructions must be printed for products whose shelf life depends on\nstorage conditions.\nSection B - Claims (brand and regulatory)\nCLM-01 Approved claims only: Only claims listed as approved in the product specification may appear on the\npack.\nCLM-02 Protein claims: \"Source of protein\" requires at least 10 g protein per 100 g. \"High protein\" requires at\nleast 20 g protein per 100 g.\n\n\nCLM-03 Health claims: Claims that a food prevents, treats or cures a disease, or boosts immunity, are\nprohibited on snack products.\nSection C - Design standards\nDSN-01 Brand logo: The Crunchwell brand name must appear on the front panel.\nDSN-02 Legibility: Mandatory information on the back panel must not be smaller than 1.0 mm x-height.\n",
+  "approved_product_spec.xlsx": "## Sheet: Product Spec\nField|Approved value\r\nProduct name|Masala Crunch Peanuts\r\nBrand|Crunchwell\r\nDescriptor|Roasted & Spiced Peanut Snack\r\nNet quantity|200 g\r\nIngredients|Peanuts (72%), Gram Flour (Besan), Edible Vegetable Oil (Palmolein), Spices & Condiments (Red Chilli, Turmeric, Coriander, Cumin), Iodised Salt, Curry Leaves (1%), Black Salt, Acidity Regulator (INS 330)\r\nAllergens - Contains|Peanuts\r\nAllergens - May contain (cross-contact)|Gluten\r\nVeg / Non-veg|Vegetarian (green symbol)\r\nFSSAI licence number|10012345000678\r\nMRP|Rs. 60.00 (Incl. of all taxes)\r\nShelf life|Best Before 6 months from manufacture\r\nStorage|Store in a cool, dry place. Once opened, transfer contents to an airtight container.\r\nManufacturer|Crunchwell Foods Pvt. Ltd., Plot 42, MIDC Industrial Area, Chakan, Pune, Maharashtra - 410501, India\r\nCustomer care|\"1800-123-4567 | care@crunchwell.in\"\r\nApproved claims|Source of Protein\r\nTarget market|India\r\n\n## Sheet: Nutrition per 100g\nNutrient|Value|Unit\r\nEnergy|560|kcal\r\nProtein|18.5|g\r\nCarbohydrate|30.2|g\r\nTotal Sugars|2.1|g\r\nAdded Sugars|0|g\r\nTotal Fat|40.5|g\r\nSaturated Fat|7.8|g\r\nTrans Fat|0.1|g\r\nSodium|560|mg\r\n"
+ },
+ "timings": {
+  "ingest": 0.3,
+  "ai_rules": 0.1,
+  "ai_spec": 0.1,
+  "ai_artwork": 0.1,
+  "checks": 0.1,
+  "ai_assess": 0.0
+ },
+ "warnings": []
+}
